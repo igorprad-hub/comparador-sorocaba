@@ -1,0 +1,59 @@
+name: Atualizar Preços
+
+on:
+  schedule:
+    - cron: '0 15 * * *'   # 12:00 BRT (UTC-3) / 15:00 UTC
+  workflow_dispatch:        # permite disparo manual pela interface do GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # necessário para fazer commit de volta ao repo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-
+
+      - name: Cache Playwright (Chromium)
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-v1
+
+      - name: Instalar dependências Python
+        run: pip install -r requirements.txt
+
+      - name: Instalar Chromium
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: playwright install chromium --with-deps
+
+      - name: Instalar dependências do sistema para Chromium (cache hit)
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: playwright install-deps chromium
+
+      - name: Executar scraper
+        run: python comparador.py
+        env:
+          REVISAO_PIN: ${{ secrets.REVISAO_PIN }}
+
+      - name: Commitar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add historico.json produtos_canonicos.json index.html
+          git diff --staged --quiet || git commit -m "dados: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

@@ -1,0 +1,5568 @@
+{
+  "gerado_em": "2026-05-04T20:04:07.166835",
+  "dados": {
+    "tauste_horti": [
+      {
+        "name": "Banana Nanica 1000g",
+        "price": 6.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cebola  800g",
+        "price": 5.4,
+        "market": "Tauste"
+      },
+      {
+        "name": "Laranja 1000g",
+        "price": 4.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Banana Prata 1000g",
+        "price": 9.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Extra Branco Preti Bandeja C/20",
+        "price": 18.8,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Grande Branco Preti Bandeja C/30",
+        "price": 27.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Melão Amarelo  Peça",
+        "price": 13.55,
+        "market": "Tauste"
+      },
+      {
+        "name": "Couve Fatiada Bomverdi  Pacote 200g",
+        "price": 6.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Extra Branco Katayama Bandeja C/20",
+        "price": 18.8,
+        "market": "Tauste"
+      },
+      {
+        "name": "Uva Niágara Bandeja 500g",
+        "price": 8.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Grande Branco Preti Bandeja C/12",
+        "price": 11.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Milho Verde Bandeja 600g",
+        "price": 7.45,
+        "market": "Tauste"
+      },
+      {
+        "name": "Uva Crimson sem Semente Bandeja 500g",
+        "price": 13.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mandioca Pacote 1000g",
+        "price": 8.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pimentão Vermelho 700g",
+        "price": 10.43,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salada de Frutas Individual Mix 2 420g",
+        "price": 14.23,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Grande Vermelho Preti Bandeja C/30",
+        "price": 29.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Sítio Onakado Bandeja C/10",
+        "price": 14.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mandioca  1000g",
+        "price": 3.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Melão Gália Peça",
+        "price": 8.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cogumelo Shimeji Branco  Bandeja 200g",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Extra Branco Preti Bandeja C/12",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Grande Vermelho Preti Bandeja C/12",
+        "price": 11.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Melão Doce Redinha  Peça",
+        "price": 18.76,
+        "market": "Tauste"
+      },
+      {
+        "name": "Laranja Pêra Pacote 3000g",
+        "price": 15.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pimentão Amarelo 700g",
+        "price": 10.43,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Grande Branco Preti Bandeja C/6",
+        "price": 6.45,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mamão Formosa Premium  2000g",
+        "price": 23.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tâmara  300g",
+        "price": 10.77,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abóbora Cabotian  Peça",
+        "price": 15.77,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Extra Vermelho Preti Bandeja C/12",
+        "price": 14.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Banana Terra  1000g",
+        "price": 13.65,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo de Codorna Preti Bandeja C/30",
+        "price": 8.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Jumbo Branco Katayama Bandeja C/20",
+        "price": 22.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alecrim Maço",
+        "price": 4.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alface Roxa Hidropônica Maço",
+        "price": 4.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alho Selecionado Roxito Pacote 200g",
+        "price": 10.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Laranja Lima Turma da Mônica Pacote 1500g",
+        "price": 14.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Melão Verde Pele de Sapo  Peça",
+        "price": 16.28,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo de Codorna Katayama Bandeja C/30",
+        "price": 8.85,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Extra Branco Katayama Imagic Bandeja C/6",
+        "price": 6.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salada de Frutas Mix 2 1000g",
+        "price": 33.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salsão/Aipo Bandeja 150g",
+        "price": 6.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cebola Branca  800g",
+        "price": 10.36,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Grande Vermelho Katayama Ômega 3 Bandeja C/20",
+        "price": 23.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abóbora Moranga Peça",
+        "price": 11.94,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alho Selecionado Roxito Pacote 400g",
+        "price": 20.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Masterchef Bandeja C/10",
+        "price": 21.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovos de Codorna Corbalan em Conserva Pote 150g",
+        "price": 14.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pêra Forelle  800g",
+        "price": 12.76,
+        "market": "Tauste"
+      },
+      {
+        "name": "Limão Taiti 600g",
+        "price": 1.77,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cenoura 800g",
+        "price": 7.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maçã Gala 800g",
+        "price": 6.12,
+        "market": "Tauste"
+      },
+      {
+        "name": "Batata Doce Rosada 800g",
+        "price": 2.84,
+        "market": "Tauste"
+      },
+      {
+        "name": "Manga Palmer  800g",
+        "price": 5.56,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maracujá Azedo 750g",
+        "price": 6.71,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pepino Japonês 800g",
+        "price": 6.36,
+        "market": "Tauste"
+      },
+      {
+        "name": "Manga Tommy Atkins  800g",
+        "price": 6.36,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abobrinha Itália 800g",
+        "price": 3.96,
+        "market": "Tauste"
+      },
+      {
+        "name": "Chuchu 800g",
+        "price": 2.04,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mamão Formosa  2100g",
+        "price": 12.28,
+        "market": "Tauste"
+      },
+      {
+        "name": "Beterraba 800g",
+        "price": 6.2,
+        "market": "Tauste"
+      },
+      {
+        "name": "Goiaba Vermelha 750g",
+        "price": 5.06,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pêra Portuguesa 400g",
+        "price": 7.18,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cheiro Verde Maço",
+        "price": 2.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Berinjela  800g",
+        "price": 3.99,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pêra WilliamS  800g",
+        "price": 6.84,
+        "market": "Tauste"
+      },
+      {
+        "name": "Couve Maço 150g",
+        "price": 3.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maçã Fuji  950g",
+        "price": 12.3,
+        "market": "Tauste"
+      },
+      {
+        "name": "Couve Flor Peça 150g",
+        "price": 9.85,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abobrinha Brasil  800g",
+        "price": 7.16,
+        "market": "Tauste"
+      },
+      {
+        "name": "Laranja Lima  1000g",
+        "price": 5.75,
+        "market": "Tauste"
+      },
+      {
+        "name": "Avocado  750g",
+        "price": 8.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Hortelã Maço",
+        "price": 3.55,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ameixa Importada 500g",
+        "price": 9.82,
+        "market": "Tauste"
+      },
+      {
+        "name": "Manjericão Maço",
+        "price": 2.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maçã Turma da Mônica Pacote 1000g",
+        "price": 15.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pimentão Verde 800g",
+        "price": 6.36,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coentro Maço",
+        "price": 5.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abobrinha Paulista  800g",
+        "price": 3.65,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salsa Maço 70g",
+        "price": 4.19,
+        "market": "Tauste"
+      },
+      {
+        "name": "Banana Maçã  750g",
+        "price": 11.96,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pepino Caipira  800g",
+        "price": 7.96,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coco Verde  Peça 800g",
+        "price": 5.57,
+        "market": "Tauste"
+      },
+      {
+        "name": "Caqui Fuyu  750g",
+        "price": 7.46,
+        "market": "Tauste"
+      },
+      {
+        "name": "Espinafre Maço",
+        "price": 6.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Kiwi Importado 600g",
+        "price": 19.74,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cenoura Baby  Pacote 250g",
+        "price": 12.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Chicória/Escarola Maço",
+        "price": 4.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Atemoia  500g",
+        "price": 6.47,
+        "market": "Tauste"
+      },
+      {
+        "name": "Jiló  500g",
+        "price": 4.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Figo Roxo Unidade 250g",
+        "price": 10.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Melancia  Peça",
+        "price": 39.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maçã Granny Smith 620g",
+        "price": 9.88,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coco Seco  700g",
+        "price": 4.88,
+        "market": "Tauste"
+      },
+      {
+        "name": "Brócolis Direto do Produtor Peça",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Acerola  Unidade 350g",
+        "price": 15.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Agrião Maço",
+        "price": 5.35,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pêra Asiática  800g",
+        "price": 14.36,
+        "market": "Tauste"
+      },
+      {
+        "name": "Aipo Maço 150g",
+        "price": 8.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Batata 800g",
+        "price": 7.16,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tomate Longa Vida 800g",
+        "price": 7.8,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alho  250g",
+        "price": 7.45,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tomate Italiano 800g",
+        "price": 9.56,
+        "market": "Tauste"
+      },
+      {
+        "name": "Morango  Bandeja 250g",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Batata Baroa  800g",
+        "price": 5.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ponkan 800g",
+        "price": 4.76,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cebola Roxa  800g",
+        "price": 5.56,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abacaxi Pérola  Peça",
+        "price": 11.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abacate 1000g",
+        "price": 4.57,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cebola Miúda  600g",
+        "price": 4.18,
+        "market": "Tauste"
+      },
+      {
+        "name": "Rúcula Hidropônica Maço",
+        "price": 6.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cebolinha Maço",
+        "price": 4.45,
+        "market": "Tauste"
+      },
+      {
+        "name": "Manga Tommy em Cubos Tauste  300g",
+        "price": 7.47,
+        "market": "Tauste"
+      },
+      {
+        "name": "Quiabo  400g",
+        "price": 6.3,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alface Crespa Hidropônica Maço",
+        "price": 3.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Laranja Bahia Importada  1000g",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mamão Formosa em Cubos Tauste  300g",
+        "price": 7.47,
+        "market": "Tauste"
+      },
+      {
+        "name": "Batata Asterix  800g",
+        "price": 7.16,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pitaia  440g",
+        "price": 6.93,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mirtilo (Blueberry)  Unidade 100g",
+        "price": 14.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Melão Doce Redinha em Cubos Tauste  300g",
+        "price": 5.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Caqui Rama Forte 750g",
+        "price": 5.73,
+        "market": "Tauste"
+      },
+      {
+        "name": "Vagem 500g",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alho Selecionado Gabriela  Pacote 200g",
+        "price": 10.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Uva Benitaka Bandeja 500g",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pepino Comum  800g",
+        "price": 7.96,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alface Mimosa Hidropônica Maço",
+        "price": 3.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Inhame  800g",
+        "price": 10.36,
+        "market": "Tauste"
+      },
+      {
+        "name": "Gengibre  400g",
+        "price": 6.78,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alho Poró Peça 100g",
+        "price": 6.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Limão Siciliano  600g",
+        "price": 7.74,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abacaxi Pérola em Cubos Tauste  300g",
+        "price": 7.17,
+        "market": "Tauste"
+      },
+      {
+        "name": "Uva Muscat Doro Seleção Especial sem Semente Bandeja 450g",
+        "price": 26.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tangerina Importada  800g",
+        "price": 11.96,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alho Descascado Temperola Pacote 1000g",
+        "price": 39.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pimenta Dedo de Moça  250g",
+        "price": 4.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cogumelo Shitake  Unidade 200g",
+        "price": 11.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abacaxi Pérola Doce Mel Premium Peça",
+        "price": 19.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Agrião Hidropônico Maço",
+        "price": 4.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Broto de Feijão Moyashi Pacote 250g",
+        "price": 6.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pimenta Americana  100g",
+        "price": 1.19,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cogumelo Shimeji Escuro  Unidade 200g",
+        "price": 10.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Physalis  Unidade 80g",
+        "price": 8.75,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abacaxi Hawaí  Peça",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Nabo Peça 180g",
+        "price": 6.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Label Rouge Orgânico Bandeja C/6",
+        "price": 19.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cara  800g",
+        "price": 10.36,
+        "market": "Tauste"
+      },
+      {
+        "name": "Caqui Giombo  750g",
+        "price": 7.47,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maçã Pink  800g",
+        "price": 11.96,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abóbora Cabotian em Cubos Tauste  500g",
+        "price": 7.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maçã Senninha  Pacote 1000g",
+        "price": 11.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alface Americana Sou da Terra Pacote 250g",
+        "price": 13.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salada Primavera Sou da Terra Pacote 150g",
+        "price": 8.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salada Italiana Sou da Terra Pacote 200g",
+        "price": 8.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Repolho Verde Liso 1800g",
+        "price": 10.71,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tomate Italiano Legal  Bandeja 800g",
+        "price": 8.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Repolho Roxo 700g",
+        "price": 6.26,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tomate Grape Fazenda do Bem Pacote 180g",
+        "price": 5.75,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alface Crespa Sou da Terra Pacote 150g",
+        "price": 7.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Batata Baroa  Bandeja 500g",
+        "price": 6.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Couve Manteiga Sou da Terra Bandeja 180g",
+        "price": 7.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salada Mista Sou da Terra Pacote 200g",
+        "price": 8.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Abóbora Cabotian em Pedaço  1325g",
+        "price": 9.23,
+        "market": "Tauste"
+      },
+      {
+        "name": "Vagem Unidade 200g",
+        "price": 6.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Brócolis Ninja Sou da Terra Bandeja 300g",
+        "price": 13.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mix Alface Fazenda do Bem Salanova Hidropônica Bandeja 150g",
+        "price": 10.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Uva Vitória sem Semente  Bandeja 500g",
+        "price": 11.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Repolho Verde Sou da Terra Pacote 300g",
+        "price": 7.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mix Sou da Terra Repolho Verde e Roxo Pacote 300g",
+        "price": 7.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovos Caipiras Label Rouge Bandeja C/20",
+        "price": 32.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salada Pronta Sou da Terra Pacote 200g",
+        "price": 8.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mix Colorido Sou da Terra Pacote 300g",
+        "price": 8.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mix Sou da Terra Couve Flor e Brócolis Pacote 300g",
+        "price": 13.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salada Romana Sou da Terra Pacote 200g",
+        "price": 8.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Escarola Sou da Terra Pacote 150g",
+        "price": 8.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Espinafre Sou da Terra Pacote 150g",
+        "price": 8.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Acelga Sou da Terra Pacote 300g",
+        "price": 6.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Yakissoba Sou da Terra Mix Fatiado Pacote 300g",
+        "price": 7.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alface Americana Seiva Higienizado Pacote 170g",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alho em Pasta Horta Alimentos Fresco Sachet 150g",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Agrião Sou da Terra Pacote 150g",
+        "price": 8.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pêra Ercolini  Pote 1000g",
+        "price": 15.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Verduras para Microondas Sou da Terra Pacote 300g",
+        "price": 10.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Label Rouge Bandeja C/30",
+        "price": 59.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salada Sabor Sou da Terra Pote 200g",
+        "price": 10.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alho Selecionado Gabriela Pacote 400g",
+        "price": 20.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Milho Doce Trebeschi  Bandeja 450g",
+        "price": 11.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Salsinha e Cebolinha em Pasta Horta Alimentos Frescas Sachet 150g",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cebola em Pasta Horta Alimentos Fresca Sachet 150g",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Espinafre Seiva Higienizado Pacote 170g",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mix de Verduras para Microondas Sou da Terra Pacote 300g",
+        "price": 11.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tomate Rama Trebeschi Pacote 200g",
+        "price": 7.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pimentão Sweet Palermo Trebeschi Pacote 300g",
+        "price": 10.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Label Rouge Orgânico Bandeja C/10",
+        "price": 29.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ervas Italianas em Pasta Horta Alimentos Frescas Sachet 150g",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alface Crespa Seiva Higienizado Pacote 170g",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovos Caipira Label Rouge Ômega 3 Bandeja C/10",
+        "price": 23.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Label Rouge O Show da Luna Bandeja C/10",
+        "price": 21.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovos Caipira Label Rouge Ômega 3 Bandeja C/20",
+        "price": 43.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tomate Doce Grape Bee Organic Bandeja 180g",
+        "price": 5.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Jumbo Branco Iana Ovos Graciana 15g Proteína Bandeja C/10",
+        "price": 11.7,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Di Ovo Grande Bandeja C/20",
+        "price": 29.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Di Ovo Grande Bandeja C/10",
+        "price": 14.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cogumelo Portobello do Vale Cogumelos Inteiro Bandeja 200g",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cogumelo Champignon de Paris do Vale Cogumelos Fatiado Bandeja 100g",
+        "price": 7.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Repolho Verde Novo Mundo Chico Bento Orgânico Peça 400g",
+        "price": 8.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Extra Branco Iana Ovos Graciana 13g Proteína Bandeja C/10",
+        "price": 12.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Iana Ovos Graciana 11g Proteína Bandeja C/10",
+        "price": 14.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Caqui Rama Bee Organic Orgânico Bandeja 500g",
+        "price": 9.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Grande Vermelho Iana Ovos Graciana Ômega 3 11g Proteína Bandeja C/10",
+        "price": 12.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Couve Manteiga Novo Mundo Chico Bento Orgânica Pacote 250g",
+        "price": 8.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cenoura Novo Mundo Chico Bento Orgânica Bandeja 500g",
+        "price": 10.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Berinjela Italiana Bee Organic Orgânica Bandeja 400g",
+        "price": 9.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Label Rouge Leve 12 Pague 10 Bandeja C/12",
+        "price": 21.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Chicória Ecorgânico Maço",
+        "price": 6.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Goiaba Vermelha Bee Organic Orgânica Bandeja 400g",
+        "price": 14.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Broto de Alfafa  Pacote 150g",
+        "price": 9.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Radicchio Piemontese Bee Organic Orgânico Bandeja 350g",
+        "price": 12.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Hortelã Ecorgânico Maço",
+        "price": 6.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cogumelo Shitake do Vale Cogumelos Bandeja 150g",
+        "price": 15.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Tomate Salada Novo Mundo Orgânico Bandeja 500g",
+        "price": 16.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Label Rouge O Show da Luna Orgânico Bandeja C/10",
+        "price": 29.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ovo Caipira Label Rouge Protéine 90g Proteína Bandeja C/15",
+        "price": 29.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Avocado Bee Organic Orgânico Bandeja 500g",
+        "price": 13.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Laranja Pera Bee Organic Orgânica Bandeja 1000g",
+        "price": 14.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Nippo Sushi Ague  Pacote 110g",
+        "price": 39.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Chuchu Novo Mundo Chico Bento Orgânico Bandeja 500g",
+        "price": 14.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cheiro Verde Novo Mundo Orgânico Pacote 80g",
+        "price": 7.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cebolinha em Conserva Lakiyo Zuke Senshi Pacote 200g",
+        "price": 46.85,
+        "market": "Tauste"
+      },
+      {
+        "name": "Gengibre Palito em Conserva Beni Shoga Marunaka Pacote 150g",
+        "price": 42.85,
+        "market": "Tauste"
+      }
+    ],
+    "tauste_carnes": [
+      {
+        "name": "Filé de Frango em Bife Bandeja  500g",
+        "price": 13.07,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito de Frango Sadia Bandeja 1000g",
+        "price": 22.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Temperado Tauste Bandeja  500g",
+        "price": 14.24,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa de Frango Sadia Bandeja 1000g",
+        "price": 14.65,
+        "market": "Tauste"
+      },
+      {
+        "name": "Contra Filé Grill Bandeja  700g",
+        "price": 41.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Carne Moída Magra  550g",
+        "price": 23.58,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Alcatra Bife  700g",
+        "price": 41.99,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Sete Grill  700g",
+        "price": 31.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa de Frango Perdigão Assa Fácil Pacote 1200g",
+        "price": 19.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxão Mole Grill  700g",
+        "price": 37.64,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Copacol Temperada Pacote 1000g",
+        "price": 14.88,
+        "market": "Tauste"
+      },
+      {
+        "name": "Petisco de Frango Copacol Temperado Pacote 1000g",
+        "price": 12.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa Sadia Assa Fácil Temperado Pacote 800g",
+        "price": 14.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coração de Frango Bandeja  500g",
+        "price": 19.94,
+        "market": "Tauste"
+      },
+      {
+        "name": "Meio da Asa Sadia Zip Pacote 1000g",
+        "price": 28.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Mezzani Tradicional Bandeja 310g",
+        "price": 11.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filezinho de Frango Copacol Empanado Pacote 700g",
+        "price": 29.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa de Frango Copacol sem Osso Bandeja 1000g",
+        "price": 18.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Perdigão Temperada ao Molho Mostarda Pacote 800g",
+        "price": 14.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Zinho Bolinha Tradicional Bandeja 300g",
+        "price": 13.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Alcatra Grill  700g",
+        "price": 41.99,
+        "market": "Tauste"
+      },
+      {
+        "name": "Capa do Coxão Mole Pedaço Bandeja  800g",
+        "price": 28.94,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína Fininha Apimentada Bandeja  500g",
+        "price": 15.34,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Zinho Todo Churrasco Tradicional Bandeja 300g",
+        "price": 14.65,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Na Brasa Alho e Ervas Pacote 600g",
+        "price": 28.29,
+        "market": "Tauste"
+      },
+      {
+        "name": "Espetinho Kafta Tauste Congelado Aprox. 7un  850g",
+        "price": 31.35,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lagarto Bife Palha  700g",
+        "price": 37.64,
+        "market": "Tauste"
+      },
+      {
+        "name": "Espetinho Capa do Coxão Mole Tauste Aprox. 8un  950g",
+        "price": 41.68,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Na Brasa com Queijo Pacote 600g",
+        "price": 28.29,
+        "market": "Tauste"
+      },
+      {
+        "name": "Meio da Asa Copacol Temperado Pacote 1000g",
+        "price": 26.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa de Frango Seara Assa Fácil Temperada Pacote 800g",
+        "price": 15.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa de Frango Perdigão Assa Fácil Pacote 1200g",
+        "price": 21.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Pernil Seara Gourmet com Alho Poró Pacote 500g",
+        "price": 20.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Espetinho Coração Tauste Aprox. 8un  620g",
+        "price": 27.83,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Sadia Temperado Assa Fácil Pacote 700g",
+        "price": 21.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa de Frango Sadia Assa Fácil Pacote 800g",
+        "price": 16.68,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa de Frango Seara Assa Fácil Temperada Pacote 800g",
+        "price": 18.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Na Brasa com Pimenta Pacote 600g",
+        "price": 28.29,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maminha Frigol Grand Chef Churrasco 1400g",
+        "price": 79.5,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Seara Assa Fácil Temperado Pacote 800g",
+        "price": 19.78,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Mezzani Calabresa Bandeja 310g",
+        "price": 11.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango Perdigão Na Brasa com Bacon Pacote 600g",
+        "price": 28.29,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peixinho Frigol Angus 980g",
+        "price": 58.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Perdigão Assa Fácil Pacote 1000g",
+        "price": 24.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Zinho Todo Churrasco Picante Bandeja 300g",
+        "price": 14.65,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Pernil Seara Gourmet com Pimenta Pacote 450g",
+        "price": 20.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maminha Frigol Angus 1250g",
+        "price": 99.73,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon Frigol Angus 1750g",
+        "price": 192.32,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Frigol Grand Chef Churrasco 1450g",
+        "price": 144.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Carpaccio Wessel Caixa 200g",
+        "price": 39.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Acém Tauste Moído Bandeja 550g",
+        "price": 22.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Patinho Moído Tauste  550g",
+        "price": 31.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Acém Tauste Moído Bandeja 550g",
+        "price": 23.52,
+        "market": "Tauste"
+      },
+      {
+        "name": "Músculo Moído Tauste  550g",
+        "price": 21.71,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa de Frango Desossada Bandeja  700g",
+        "price": 15.23,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Confina Alimentos Congelado Pacote 1000g",
+        "price": 13.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxão Mole Bife  700g",
+        "price": 37.64,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxão Mole Moído Tauste  550g",
+        "price": 29.57,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa de Frango Confina Alimentos Congelada Pacote 1000g",
+        "price": 6.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peito de Frango Sadia Desfiado Temperado e Cozido Congelado Pacote 400g",
+        "price": 21.59,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peixinho Cubos  700g",
+        "price": 30.02,
+        "market": "Tauste"
+      },
+      {
+        "name": "Contra Filé Bife Bandeja  700g",
+        "price": 41.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito de Frango Copacol em Bifes Pacote 800g",
+        "price": 17.45,
+        "market": "Tauste"
+      },
+      {
+        "name": "Patinho Cubos  700g",
+        "price": 39.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Frango À Passarinho Sadia Congelado Pacote 1000g",
+        "price": 12.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lagarto Pedaço  700g",
+        "price": 30.71,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa Copacol sem Osso Temperada Pacote 1000g",
+        "price": 16.65,
+        "market": "Tauste"
+      },
+      {
+        "name": "Paleta Bovina Cubos  700g",
+        "price": 30.71,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon Peça  1400g",
+        "price": 117.43,
+        "market": "Tauste"
+      },
+      {
+        "name": "Patinho Bife  700g",
+        "price": 39.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxão Duro Bife Bandeja  700g",
+        "price": 36.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito de Frango Sadia Bio Bandeja 1000g",
+        "price": 31.5,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa Korin sem Transgênicos Bandeja 600g",
+        "price": 16.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Sassami Sadia Temperado Pacote 1000g",
+        "price": 27.65,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxão Mole Cubos Cubos 700g",
+        "price": 37.64,
+        "market": "Tauste"
+      },
+      {
+        "name": "Contra Filé Pedaço Bandeja  700g",
+        "price": 41.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxão Duro Moído Tauste Bandeja 550g",
+        "price": 28.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Fígado de Frango Korin sem Transgênicos Bandeja 600g",
+        "price": 6.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Sadia Bio Pacote 1000g",
+        "price": 27.67,
+        "market": "Tauste"
+      },
+      {
+        "name": "Meio da Asa Korin sem Transgênicos Bandeja 600g",
+        "price": 15.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filezinho Sassami Korin sem Transgênicos Bandeja 600g",
+        "price": 29.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito Korin sem Transgênicos Bandeja 600g",
+        "price": 31.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa de Frango Sadia Bio Bandeja 1000g",
+        "price": 19.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filezinho Sassami Sadia Bio Pacote 1000g",
+        "price": 28.45,
+        "market": "Tauste"
+      },
+      {
+        "name": "Noix Pedaço  700g",
+        "price": 41.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa de Frango Korin sem Transgênicos Bandeja 600g",
+        "price": 10.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito Sadia em Bifes Temperado Congelado Pacote 1000g",
+        "price": 28.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Korin sem Transgênicos Bandeja 600g",
+        "price": 12.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Contra Filé Frigol a Vácuo 1600g",
+        "price": 87.82,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Peça  1400g",
+        "price": 124.44,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Cuiabana Seara Gourmet Pacote 500g",
+        "price": 20.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango Seara Gourmet com Bacon Pacote 500g",
+        "price": 20.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Cebola Santa Massa Bandeja 400g",
+        "price": 14.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Pernil Seara Gourmet com Pimenta Biquinho Pacote 500g",
+        "price": 20.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peixinho Sanfonada  950g",
+        "price": 44.82,
+        "market": "Tauste"
+      },
+      {
+        "name": "Contra Filé Frigol Grand Chef Churrasco 1200g",
+        "price": 78.94,
+        "market": "Tauste"
+      },
+      {
+        "name": "Moela de Frango Sadia Bandeja 1000g",
+        "price": 21.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Moela de Frango Korin sem Transgênicos Bandeja 600g",
+        "price": 11.88,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Grill  1400g",
+        "price": 124.44,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Mezzani Picante Bandeja 310g",
+        "price": 11.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Carne Moída Extra  550g",
+        "price": 18.63,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Bandeja  700g",
+        "price": 16.77,
+        "market": "Tauste"
+      },
+      {
+        "name": "Fígado Bovino  500g",
+        "price": 7.99,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa  700g",
+        "price": 12.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Sadia Pacote 1000g",
+        "price": 12.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Sete Bife  700g",
+        "price": 31.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filezinho Sassami Perdigão Pacote 1000g",
+        "price": 19.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pernil Suíno sem Osso  700g",
+        "price": 15.25,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peito de Frango com Osso e Pele Bandeja  900g",
+        "price": 13.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lombo Suíno Bandeja  500g",
+        "price": 12.04,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa de Frango Bandeja  1500g",
+        "price": 14.67,
+        "market": "Tauste"
+      },
+      {
+        "name": "Kibe Bandeja  800g",
+        "price": 26.3,
+        "market": "Tauste"
+      },
+      {
+        "name": "Asa de Frango Bandeja  700g",
+        "price": 12.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Toucinho para Torresmo Bandeja  700g",
+        "price": 13.22,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Temperada  700g",
+        "price": 13.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Copa Lombo Bandeja  700g",
+        "price": 16.78,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maminha do Alcatra Pedaço  1000g",
+        "price": 54.88,
+        "market": "Tauste"
+      },
+      {
+        "name": "Fraldinha Pedaço  1000g",
+        "price": 53.78,
+        "market": "Tauste"
+      },
+      {
+        "name": "Rabo Bovino Pedaço  700g",
+        "price": 27.22,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costela Suína Bandeja  700g",
+        "price": 23.01,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa de Frango Temperada Bandeja  750g",
+        "price": 11.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costela Bovina Pedaço Bandeja  1000g",
+        "price": 29.58,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bombom da Alcatra Frigol Grand Chef Churrasco 1000g",
+        "price": 74.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon Bife  1400g",
+        "price": 123.03,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coração de Frango Perdigão Pacote 1000g",
+        "price": 28.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Músculo Pedaço  800g",
+        "price": 31.58,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Acém Tauste Pedaço Bandeja 800g",
+        "price": 34.22,
+        "market": "Tauste"
+      },
+      {
+        "name": "Acém Bandeja  700g",
+        "price": 29.17,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon Suíno Bandeja  700g",
+        "price": 26.86,
+        "market": "Tauste"
+      },
+      {
+        "name": "Paleta Suína sem Osso Bandeja  700g",
+        "price": 13.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Moela de Frango Copacol Congelada Bandeja 1000g",
+        "price": 14.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ponta de Peito sem Osso Pedaço  1000g",
+        "price": 39.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Toucinho Bandeja  700g",
+        "price": 11.82,
+        "market": "Tauste"
+      },
+      {
+        "name": "Frango a Passarinho Sadia Temperado Pacote 1000g",
+        "price": 17.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Capa do Contra Filé Pedaço Bandeja  800g",
+        "price": 27.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lombo Suíno Frigol Grand Chef Temperado 800g",
+        "price": 26.38,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Copacol Congelado Bandeja 1000g",
+        "price": 23.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costelinha Suína Frigol Grand Chef Temperada 950g",
+        "price": 35.13,
+        "market": "Tauste"
+      },
+      {
+        "name": "Contra Músculo Pedaço Bandeja  700g",
+        "price": 31.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Paleta Bovina Pedaço  1000g",
+        "price": 43.88,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pacu Pedaço  700g",
+        "price": 31.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon sem Cordão Frigol a Vácuo 2200g",
+        "price": 197.75,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costelão Bovino Pedaço Bandeja  1500g",
+        "price": 44.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Copa Lombo Suíno Frigol Grand Chef Temperado 880g",
+        "price": 26.03,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peixinho Pedaço Pedaço 950g",
+        "price": 44.82,
+        "market": "Tauste"
+      },
+      {
+        "name": "Panceta Suína Frigol Grand Chef Temperada 870g",
+        "price": 32.0,
+        "market": "Tauste"
+      },
+      {
+        "name": "Alcatra Baby Frigol Grand Chef Churrasco 1500g",
+        "price": 89.68,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coração de Frango Copacol Bandeja 1000g",
+        "price": 33.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ponta de Peito Frigol Grand Chef Churrasco 1850g",
+        "price": 92.29,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Copacol Congelada Bandeja 1000g",
+        "price": 19.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxão Mole Strogonoff  400g",
+        "price": 23.46,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bife À Milanesa de Frango Tauste  470g",
+        "price": 13.57,
+        "market": "Tauste"
+      },
+      {
+        "name": "Músculo Cubos  700g",
+        "price": 27.63,
+        "market": "Tauste"
+      },
+      {
+        "name": "Acém em Cubos Bandeja  700g",
+        "price": 29.17,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bife À Milanesa Bovino Tauste Bandeja  400g",
+        "price": 21.95,
+        "market": "Tauste"
+      },
+      {
+        "name": "Meio da Asa  700g",
+        "price": 17.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costela Filetada Pedaço Bandeja  1000g",
+        "price": 29.58,
+        "market": "Tauste"
+      },
+      {
+        "name": "Noix Bife  700g",
+        "price": 41.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Sete Cubos  700g",
+        "price": 31.48,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Acém Tauste Cubos Bandeja 1000g",
+        "price": 42.78,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ponta de Peito Cubos  700g",
+        "price": 27.63,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Santa Massa Bandeja 400g",
+        "price": 14.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Panceta Suína Grill Bandeja  1000g",
+        "price": 27.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Miolo do Acém Tauste Grill Bandeja 700g",
+        "price": 31.3,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito de Frango Copacol Desfiado, Cozido e Temperado Pacote 400g",
+        "price": 17.6,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lagarto em Cubos  700g",
+        "price": 27.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maminha do Alcatra Tauste em Bife Bandeja 600g",
+        "price": 32.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maminha Sanfonada  700g",
+        "price": 38.41,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína Bandeja  600g",
+        "price": 17.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Meio da Asa Temperada Tauste Bandeja  700g",
+        "price": 18.82,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bananinha Contra Filé Bandeja 800g",
+        "price": 34.22,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ponta de Peito Grill  700g",
+        "price": 27.63,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Costela Bovina Tauste Bandeja 600g",
+        "price": 26.32,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costelão Bovino Grill Bandeja  1000g",
+        "price": 29.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína Apimentada Bandeja  600g",
+        "price": 17.97,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costela Suína Grill Bandeja  700g",
+        "price": 24.27,
+        "market": "Tauste"
+      },
+      {
+        "name": "Mocotó Congelado Bandeja 700g",
+        "price": 10.21,
+        "market": "Tauste"
+      },
+      {
+        "name": "Noix Grill  700g",
+        "price": 41.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Espetinho Frango Tauste Aprox. 8un  900g",
+        "price": 24.2,
+        "market": "Tauste"
+      },
+      {
+        "name": "Entrecôte Frigol a Vácuo 1200g",
+        "price": 71.74,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costela Suína Seara Gourmet ao Molho Barbecue Caixa 1000g",
+        "price": 69.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Santa Massa Picante Bandeja 400g",
+        "price": 14.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maminha do Alcatra Tauste Grill Bandeja 700g",
+        "price": 38.41,
+        "market": "Tauste"
+      },
+      {
+        "name": "Baby Beef Perdigão Na Brasa Montana Steakhouse 1400g",
+        "price": 83.84,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cupim Frigol Chef Churrasco 1100g",
+        "price": 53.66,
+        "market": "Tauste"
+      },
+      {
+        "name": "Almôndega Bovina Tauste Congelada Bandeja 560g",
+        "price": 24.57,
+        "market": "Tauste"
+      },
+      {
+        "name": "Entrecôte Perdigão Na Brasa Montana Steakhouse 1500g",
+        "price": 88.33,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maminha do Alcatra Bassi Sadia 1300g",
+        "price": 81.62,
+        "market": "Tauste"
+      },
+      {
+        "name": "Fraldinha Grill  1000g",
+        "price": 56.22,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cupim Perdigão Na Brasa Montana Steakhouse 1300g",
+        "price": 64.85,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Perdigão Na Brasa Montana Steakhouse 1400g",
+        "price": 132.84,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Frigol a Vácuo 1450g",
+        "price": 114.24,
+        "market": "Tauste"
+      },
+      {
+        "name": "Carpaccio de Lagarto Frigol  Caixa 200g",
+        "price": 44.79,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bife de Chorizo Perdigão Na Brasa Montana Steakhouse 1500g",
+        "price": 97.18,
+        "market": "Tauste"
+      },
+      {
+        "name": "Fraldinha Bassi Sadia a Vácuo 1400g",
+        "price": 107.64,
+        "market": "Tauste"
+      },
+      {
+        "name": "Paleta Frigol Angus 1550g",
+        "price": 69.42,
+        "market": "Tauste"
+      },
+      {
+        "name": "Espetinho Frigol Angus Pacote 600g",
+        "price": 39.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Hambúrguer de Picanha Vpj Black Angus Burger sem Tempero Caixa C/2 420g",
+        "price": 49.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Frigol Angus 1300g",
+        "price": 192.4,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bife Chorizo Bassi Sadia 1600g",
+        "price": 118.06,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Frango Strogonoff Bandeja  600g",
+        "price": 17.25,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito de Frango Perdigão Congelado Pacote 800g",
+        "price": 17.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa de Frango Bandeja 700g",
+        "price": 10.35,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito Frango Seara Zip Congelado Pacote 1000g",
+        "price": 22.27,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pé de Frango Bandeja  700g",
+        "price": 6.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filezinho de Peito Sassami Seara Congelado Pacote 1000g",
+        "price": 21.6,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filezinho Sassami Sadia Congelado Pacote 1000g",
+        "price": 22.68,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Peito de Frango Moído Copacol Pacote 400g",
+        "price": 8.38,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peito de Frango Seara Desfiado Pacote 400g",
+        "price": 17.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Moela de Frango  500g",
+        "price": 9.44,
+        "market": "Tauste"
+      },
+      {
+        "name": "Fígado de Frango Perdigão Congelado Pacote 1000g",
+        "price": 5.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa de Frango Sadia Congelada Pacote 1000g",
+        "price": 10.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Moela de Frango Perdigão Congelada Pacote 1000g",
+        "price": 19.7,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Seara Zip Congelado Pacote 1000g",
+        "price": 12.75,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon Medalhão  1000g",
+        "price": 95.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa sem Pele Bandeja  1500g",
+        "price": 23.07,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Confina Alimentos Todo Dia Congelada Pacote 1000g",
+        "price": 11.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa Tauste Desossada Temperada Bandeja 750g",
+        "price": 19.41,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costela sem Osso Pedaço Bandeja 1000g",
+        "price": 43.51,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filezinho de Frango Alliz Empanado Pacote 1000g",
+        "price": 35.75,
+        "market": "Tauste"
+      },
+      {
+        "name": "Fraldinha Frigol a Vácuo 1250g",
+        "price": 49.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango Fininha Tauste Bandeja 400g",
+        "price": 17.55,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa Desossada Sadia Congelada Pacote 1000g",
+        "price": 26.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa de Frango Sadia Temperada Pacote 1000g",
+        "price": 16.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costelão sem Osso Pedaço Bandeja 1000g",
+        "price": 43.87,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa Desossada Perdigão Nabrasa com Mostarda e Shoyu Pacote 800g",
+        "price": 19.88,
+        "market": "Tauste"
+      },
+      {
+        "name": "Frango Seara de Padaria Tempero Tradicional 1500g",
+        "price": 23.83,
+        "market": "Tauste"
+      },
+      {
+        "name": "Isca de Frango Copacol Empanado Pacote 700g",
+        "price": 29.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango  800g",
+        "price": 19.12,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costelão Tauste Temperado Bandeja 1500g",
+        "price": 42.72,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa de Frango Perdigão Congelada Pacote 800g",
+        "price": 12.57,
+        "market": "Tauste"
+      },
+      {
+        "name": "Fígado de Frango Itabom Congelado 1700g",
+        "price": 8.46,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango Copacol Fina Congelada Pacote 700g",
+        "price": 17.88,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé de Coxa e Sobrecoxa Copacol Empanado Pacote 700g",
+        "price": 29.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa e Sobrecoxa de Frango Perdigão Congelado Pacote 1000g",
+        "price": 22.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango Perdigão Nabrasa Pacote 700g",
+        "price": 22.65,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango Fininha com Bacon Bandeja  500g",
+        "price": 24.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Ponta de Costela  1000g",
+        "price": 27.38,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Perdigão Congelado Pacote 800g",
+        "price": 14.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Maminha Frigol a Vácuo 1700g",
+        "price": 84.96,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxinha da Asa Copacol Drumette Congelada Pacote 800g",
+        "price": 13.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coxa de Frango Sadia Bio Fácil Temperada Pacote 800g",
+        "price": 13.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Cupim a Vácuo Frigol  2400g",
+        "price": 88.29,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coração de Frango Perdigão Nabrasa ao Molho Shoyu Pacote 800g",
+        "price": 29.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrecoxa de Frango Sadia Bio Fácil Temperada Pacote 800g",
+        "price": 15.19,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coração de Frango Perdigão Nabrasa Congelado Bandeja 500g",
+        "price": 18.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Coração de Frango Sadia Congelado Bandeja 1000g",
+        "price": 32.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango Seara Churrasco Pacote 600g",
+        "price": 16.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Almôndega de Frango Tauste Congelada Bandeja 560g",
+        "price": 18.46,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Bassi Sadia Resfriada 1400g",
+        "price": 202.86,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peito de Frango com Osso sem Pele Bandeja  700g",
+        "price": 13.0,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Nabrasa 800g",
+        "price": 15.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Seara  800g",
+        "price": 19.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pernil Suíno Bife Bandeja  500g",
+        "price": 10.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Carne Moída Suína Tauste Bandeja 500g",
+        "price": 14.24,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bisteca Suína Sadia Pacote 800g",
+        "price": 15.35,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Nabrasa Pacote 700g",
+        "price": 19.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Peito de Frango Grill com Osso Bandeja  700g",
+        "price": 10.82,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon Suíno Sadia em Bifes Pacote 800g",
+        "price": 24.07,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pernil Suíno sem Osso em Cubos Bandeja  800g",
+        "price": 17.43,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Sadia Congelada Pacote 700g",
+        "price": 24.2,
+        "market": "Tauste"
+      },
+      {
+        "name": "Copa Lombo Suína Tauste Bife Bandeja 600g",
+        "price": 14.38,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon Suíno Medalhão Bandeja  500g",
+        "price": 19.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína Sadia para Churrasco Congelada Pacote 700g",
+        "price": 17.49,
+        "market": "Tauste"
+      },
+      {
+        "name": "Paleta Suína Tauste em Cubos Bandeja 600g",
+        "price": 11.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Seara Churrasco Pacote 600g",
+        "price": 16.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lombo Suíno Tauste Bife Bandeja 600g",
+        "price": 14.45,
+        "market": "Tauste"
+      },
+      {
+        "name": "Copa Lombo Suína Sadia em Bifes Pacote 800g",
+        "price": 21.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína Seara Churrasco com Chimichurri Pacote 600g",
+        "price": 16.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Pernil Suíno Perdigão Nabrasa Pacote 700g",
+        "price": 19.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão com Linguiça Mezzani com Queijo Mussarela Pacote 400g",
+        "price": 18.5,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lombo Suíno Sadia em Bifes Pacote 800g",
+        "price": 23.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Súina Seara com Bacon Churrasco Pacote 600g",
+        "price": 16.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bife do Mignon Suíno Bandeja  500g",
+        "price": 19.92,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína com Queijo Coalho Tauste Bandeja 600g",
+        "price": 28.96,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Alho Santa Massa Bolinha Bandeja 300g",
+        "price": 16.69,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína Seara Churrasco Apimentada Pacote 600g",
+        "price": 16.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Joelho Suíno Temperado Bandeja  1500g",
+        "price": 28.02,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Pernil Suíno Seara Churrasco Pacote 600g",
+        "price": 16.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Paleta Suína Tauste Bife Bandeja 600g",
+        "price": 11.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Nabrasa Apimentada Pacote 700g",
+        "price": 19.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Paleta Suína Tauste Grill Bandeja 600g",
+        "price": 11.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Copa Lombo Temperada Bandeja  700g",
+        "price": 20.7,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pernil Suíno Sulita sem Osso Temperado 950g",
+        "price": 31.23,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Suína Sulita Seleção Gourmet Temperada 950g",
+        "price": 34.09,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína Seara Churrasco Pacote 600g",
+        "price": 16.39,
+        "market": "Tauste"
+      },
+      {
+        "name": "Copa Lombo Suína Tauste Grill Bandeja 600g",
+        "price": 14.38,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lombo Suíno Tauste Grill Bandeja 600g",
+        "price": 14.45,
+        "market": "Tauste"
+      },
+      {
+        "name": "Costela Suína Sadia Temperada 1300g",
+        "price": 38.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Filé Mignon Suíno Sulita Seleção Gourmet Temperado 1100g",
+        "price": 42.66,
+        "market": "Tauste"
+      },
+      {
+        "name": "Panceta Suína Frimesa Fogo e Sabor Aperitivo Temperada Pacote 1000g",
+        "price": 25.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Lombo Inglês Suíno Sulita Seleção Gourmet Temperado 850g",
+        "price": 31.43,
+        "market": "Tauste"
+      },
+      {
+        "name": "Picanha Suína Sadia Suíno Fácil Temperada 700g",
+        "price": 23.08,
+        "market": "Tauste"
+      },
+      {
+        "name": "Porco a Passarinho Frimesa Fogo e Sabor Temperado Pacote 1000g",
+        "price": 24.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Cordeiro Vila Beef Caixa 500g",
+        "price": 49.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Neck de Cordeiro Vila Das Carnes com Osso Congelado 900g",
+        "price": 44.0,
+        "market": "Tauste"
+      },
+      {
+        "name": "Sobrepaleta Suína Sulita sem Osso Temperada 950g",
+        "price": 35.13,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pernil Suíno Sadia Suíno Fácil Temperado 1000g",
+        "price": 29.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Frimesa Fogo e Sabor Pacote 600g",
+        "price": 14.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Tipo Calabresa Frescal Frimesa Fogo e Sabor Pacote 600g",
+        "price": 17.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Calabresa Perdigão com Pimenta Calabresa Pacote 500g",
+        "price": 16.9,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Suína Perdigão Nabrasa Cuiabana com Queijo Coalho Pacote 500g",
+        "price": 23.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Frango Sadia Pacote 700g",
+        "price": 18.98,
+        "market": "Tauste"
+      },
+      {
+        "name": "Pão de Pepperoni Santa Massa com Requeijão Bandeja 240g",
+        "price": 16.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Steak de Picanha Vpj Linha Grill Angus Beef Pacote 300g",
+        "price": 33.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Toscana Vpj Linha Grill Duroc Pork Pacote 200g",
+        "price": 14.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "T-Bone de Cordeiro Vila Das Carnes com Osso Congelado 900g",
+        "price": 69.11,
+        "market": "Tauste"
+      },
+      {
+        "name": "Carpaccio de Carne Bovina Carapreta Angus Congelado Caixa 200g",
+        "price": 38.99,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bife de Chorizo Vpj Linha Grill Angus Beef Pacote 300g",
+        "price": 47.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Panceta Vpj Linha Grill Duroc Pork Pacote 500g",
+        "price": 39.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Bife Ancho Vpj Linha Grill Angus Beef Pacote 300g",
+        "price": 49.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça Vpj Sabor Defumada Linha Grill Angus Beef Pacote 200g",
+        "price": 17.89,
+        "market": "Tauste"
+      },
+      {
+        "name": "Linguiça de Costela Carapreta Pacote 300g",
+        "price": 16.88,
+        "market": "Tauste"
+      }
+    ],
+    "coop_horti": [
+      {
+        "name": "Ovo Branco Grande Com 20 Unidades",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Tomate Italiano 1 unidade Aprox 160g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cebola Nacional 1 unidade Aprox 160g",
+        "price": 6.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Batata Extra 1 Unidade Aprox 180g",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Banana Nanica 1 unidade Aprox 180g",
+        "price": 6.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Uva Thompson Sem Semente Boa Roca 500g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Limão Taiti 1 Unidade Aprox 150g",
+        "price": 3.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mexerica Ponkan Benassi 1 Unidade Aprox 200g",
+        "price": 6.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Alho Roxo Benassi 1 unidade Aprox 65g",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Abacate Margarida Benassi 1 Unidade Aprox 500g",
+        "price": 5.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Alface Crespa Benassi",
+        "price": 5.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pepino Japonês 1 Unidade Aprox 220g",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Manga Palmer 1 Unidade Aprox 620g",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mamão Papaya 1 Unidade Aprox 600g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Laranja Pera 1 unidade Aprox 200g",
+        "price": 5.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cenoura 1 unidade Aprox 190g",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Banana Prata 1 unidade Aprox 190g",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mandioquinha Batata Baroa Coop Kg",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maçã Gala Coop Nacional 1 Unidade Aprox 200g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maracujá Azedo Benassi 1 Unidade Aprox 410g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cheiro Verde Benassi",
+        "price": 4.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Tomate Sweet Grape 180g",
+        "price": 3.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Morango Benassi Bandeja 250g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Couve Manteiga Benassi",
+        "price": 5.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Brócolis Ninja Benassi 150g",
+        "price": 8.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Repolho Verde 1 Unidade Aprox 1,4kg",
+        "price": 5.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pimentão Verde 1 Unidade Aprox 230g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Chuchu 1 Unidade Aprox 300g",
+        "price": 4.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Beterraba 1 Unidade Aprox 330g",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Berinjela 1 Unidade Aprox 450g",
+        "price": 8.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Batata Doce Rosada 1 Unidade Aprox 440g",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Uva Preta sem Semente Boa Roca 500g",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cebolinha Benassi 1 Unidade",
+        "price": 5.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coentro Benassi 1 Unidade",
+        "price": 6.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Caqui Rama Forte 500g",
+        "price": 4.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mandioca a Vácuo Pacote 1kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Milho Verde Benassi Bandeja 900g",
+        "price": 6.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Vagem em Macarrão Bandeja 350g",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mamão Formosa Benassi 1 Unidade Aprox 1,8kg",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cebola Roxa Benassi 1 Unidade Aprox 170g",
+        "price": 5.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ameixa Importada Benassi 1 Unidade Aprox 110g",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Quiabo Benassi Bandeja 300g",
+        "price": 8.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pera Portuguesa Baby Benassi Pacote 1kg",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maça Turma da Mônica 1kg",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Melão Amarelo 1 Unidade Aprox 2,7kg",
+        "price": 8.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Abacaxi Pérola 01 unidade",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovos Brancos Grande Com 12 Unidades",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Couve Manteiga La Vita 200g",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mix Salada Verão La Vita 200g",
+        "price": 13.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Seleta de Legumes Congelada Sadia Veg&Tal 300g",
+        "price": 6.79,
+        "market": "Coop"
+      },
+      {
+        "name": "Kiwi Benassi Bandeja 600g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salada de frutas Coop 200g",
+        "price": 34.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pimentão Vermelho Benassi 1 Unidade Aprox 250g",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mexerica Murcote Benassi 1 Unidade Aprox 140g",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Melancia Baby Benassi Aprox 2,25kg",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maça Gala Importada Benassi 1 Unidade Aprox 230g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Laranja Lima Benassi 1 Unidade Aprox 280g",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Rúcula Hidropônica Benassi 1 Unidade",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pimentão Misto Benassi Bandeja 500g",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Tomate Carmem 1 Unidade Aprox 250g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Extra Branco Com 10 Unidades",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Branco Grande Com 20 Unidades",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Melancia Kg",
+        "price": 4.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Branco Grande Com 20 Unidades",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Blueberry Benassi Importada Bandeja 125g",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ameixa Rubimel Benassi Bandeja 500g",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Tomate Sweet Grape Bandeja 500g",
+        "price": 8.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Vermelho Grande Vitamina Com 10 Unidades",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maça Red Benassi 1 Unidade Aprox 290g",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Limão Siciliano Benassi 1 Unidade Aprox 250g",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coco Seco Benassi 1 Unidade Aprox 700g",
+        "price": 5.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Caipira Grande Com 10 Unidades",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Branco Grande Com 20 Unidades",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maca Nacional Boa Roca 1Kg",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsinha Verde Fácil 1 Unidade",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mix de Frutas Secas Benassi 100g",
+        "price": 149.9,
+        "market": "Coop"
+      },
+      {
+        "name": "Castanha do Pará sem Casca Benassi 100g",
+        "price": 199.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovos Vermelhos Grande Com 6 Unidades",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Kiwi Hayward Disney 500G",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Vermelho Com 20 Unidades",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Extra Vermelho Com 10 Unidades",
+        "price": 10.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Branco Grande Com 20 Unidades",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Branco Grande Com 20 Unidades",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Vermelho Grande Com 10 Unidades",
+        "price": 13.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Noz Mariposa Benassi sem Casca 100g",
+        "price": 129.9,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Vermelho Grande Com 12 Unidades",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Melão Pele de Sapo Benassi 1 Unidade Aprox 3kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Melão Doce Benassi 1 Unidade Aprox 2,7kg",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maça Argentina Pink Lady Benassi 1 Unidade Aprox 155g",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coco Verde Benassi 1 Unidade Aprox 2,3kg",
+        "price": 6.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ameixa Benassi 1 Unidade Aprox 110g",
+        "price": 69.9,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovos Caipiras Orgânico Com 6 Unidades",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Melancia 1 Unidade Aprox 14kg",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ovo Branco Grande Com 20 Unidades",
+        "price": 43.8,
+        "market": "Coop"
+      }
+    ],
+    "coop_acougue": [
+      {
+        "name": "Coxa e Sobrecoxa de Frango Coop Kg",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne Moída Acém Bovino Coop Kg",
+        "price": 42.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Alcatra Moída Bovina Coop kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Coop Pedaço 1kg",
+        "price": 56.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Mole Moído 500g",
+        "price": 52.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filezinho de Frango Swift Sassami 1kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Picanha Fatiada Proporcionada Aprox 1Kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração de Alcatra Bovino Bife 1Kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Aurora 1Kg",
+        "price": 28.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bisteca Suína 1Kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Músculo Bovino Mole Coop 1kg",
+        "price": 38.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Patinho Bovino Coop Moído kg",
+        "price": 53.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Braço Bovino Coop Moído 500g",
+        "price": 44.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bisteca Suína Congelada Kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Na Brasa 500g",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filezinho Sassami de Frango Congelado Sadia 1kg",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Suína Perdigão 500g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa Sobrecoxa Desossada 1Kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Sobrecoxa de frango Swift 1kg",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana na Brasa Perdigão 1Kg",
+        "price": 28.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Hot Dog Congelada Seara 1kg",
+        "price": 10.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Patinho bovino Bife 1kg",
+        "price": 53.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Mole Bovino Bife 1kg",
+        "price": 52.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bacon Sadia 300g",
+        "price": 34.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Hot Dog Sadia 500g",
+        "price": 13.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Hot Dog Perdigão 500g",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Sadia Kg",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Perdigão 450g",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Sadia 450g",
+        "price": 27.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração da Alcatra Bovino peça/pedaço 1Kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Acém Bovino Peça 1Kg",
+        "price": 42.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne Moída Tubete Swift 500G",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne De Panela Em Cubos Swift 500G",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito de Frango Coop com Osso Sem Pele kg",
+        "price": 20.69,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Seara Kg",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pernil Suíno Coop Fresco com Osso 1kg",
+        "price": 20.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Paleta Suína Coop Fatiada 1kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Suína Coop Fresca kg",
+        "price": 31.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Musculo Moído 500g",
+        "price": 38.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Aurora Hot Dog 1Kg",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de Frango Sadia kg",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Almôndega Congelada Swift Carne Bovina 500g",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filezinho de Peito de Frango Perdigão Sassami 800g",
+        "price": 20.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Peito de Frango Sadia sem Pele e sem Osso 1kg",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "File de Peito de Frango Sadia Bandeja 1kg",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de Frango Sadia 500g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio da Asa Tulipa Swift 1Kg",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Suíno Swift Aprox  1,5kg",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Postas de Bacalhau Dessalgado Swift 800g",
+        "price": 69.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da asa ao molho mostarda na brasa Perdigão 800g",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa de frango Swift 1kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de peito Swift 1kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Fraldinha Bovina 1,5kg",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Paleta Bovina em Bife 1Kg",
+        "price": 44.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Perdigão 400g",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Duro Bovino Bife 1Kg",
+        "price": 48.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Copa Lombo Suíno sem Osso 1Kg",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Paleta Bovina Peça 1Kg",
+        "price": 44.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ponta de Agulha Bovina 1kg",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Patinho Bovino 1kg",
+        "price": 53.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango à Passarinho 1kg",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Moela de Frango Congelado Sadia 1kg",
+        "price": 17.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa da Asa de Frango Sadia Drumette 1kg",
+        "price": 19.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa de Frango Sadia com Ossos Pacote 1kg",
+        "price": 14.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Iscas De Figado Bovino Friboi 500G",
+        "price": 19.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Moela De Frango Swift 1Kg",
+        "price": 14.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Cubos De Acém Swift 1Kg",
+        "price": 39.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costelinha Suína A Passarinho Temperada Swift 1Kg",
+        "price": 27.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango A Passarinho Temperado Swift 1Kg",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bacon Fatiado Swift 250G",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango A Passarinho Swift 1Kg",
+        "price": 11.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito Bov Moido Kg",
+        "price": 41.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Seara Aprox 450g",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Kibe Bovino Friboi 500g",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango Empanado Perdigão Tirinhas 1kg",
+        "price": 33.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Sadia kg",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito Bovino Coop Peça kg",
+        "price": 41.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Músculo Bovino Traseiro Picado kg",
+        "price": 38.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bacon Suíno Aurora em Cubos Porcionados 250g",
+        "price": 16.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Maturatta Aprox 1kg",
+        "price": 69.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Coop a Vácuo Aprox kg",
+        "price": 56.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango Sassami Swift 1kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito de Frango Copacol Desfiado Temperado 500g",
+        "price": 23.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da Asa de Frango Adoro Temperado Resfriado Aprox 600g",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Moela de Frango a Granel 500g",
+        "price": 17.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lombo Suíno sem Osso Peça 1kg",
+        "price": 33.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Rabo Bovino 1kg",
+        "price": 37.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Sobrecoxa de Frango Sadia Assa Fácil Temperado 800kg",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Sadia Hot Dog 500g",
+        "price": 13.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Aurora 500g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Fígado Bovino 1Kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Bovina com Osso 1Kg",
+        "price": 33.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pernil sem Osso Pedaço 1Kg",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Suína 1Kg",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Acém Peça 1Kg",
+        "price": 42.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife á Role Temperado 1Kg",
+        "price": 53.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Asa de Frango bandeja Swift 1kg",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filézinho sassami temperado Swift 1kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito de Frango Desfiado Seara 400g",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne moída de paleta Swift 500g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne moída patinho Swift 500g",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa de Frango Seara Assa Fácil Temperada 800g",
+        "price": 14.29,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa com Sobrecoxa de Frango Desossada  Sadia 1kg",
+        "price": 25.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Lagarto Bovino Bife 1Kg",
+        "price": 47.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Fígado Bovino 1kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Bife 1kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Fígado de Frango 1Kg",
+        "price": 7.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração de Frango 1Kg",
+        "price": 38.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Chester Assa Fácil Perdigão Aprox 4kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Seara 450g",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lagarto Bovino Peça 1kg",
+        "price": 47.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cupim Bovino 1Kg",
+        "price": 45.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Mole Bovino Peça 1Kg",
+        "price": 52.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filézinho de Frango Congelado Sadia Bandeja 1kg",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Sobrecoxa Ao Chimichurri Swift 800G",
+        "price": 17.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Suíno Em Cubos Swift 500G",
+        "price": 17.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife De Contra Filé Combo Dia A Dia 1Kg Swift",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ingredientes Para Feijoada Prieto 600G",
+        "price": 21.39,
+        "market": "Coop"
+      },
+      {
+        "name": "Empanado De Frango Cheddar E Bacon Seara 110G",
+        "price": 4.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Empanado De Frango Queijo Orégano Big Tekitos Seara 900G",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxao Duro Bov Moido Kg",
+        "price": 48.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Tradicional Rocca 1Kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pernil Suíno Aurora Temperado com Osso Congelado kg",
+        "price": 32.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango Empanado Seara Levíssimo Recheado 110g",
+        "price": 4.79,
+        "market": "Coop"
+      },
+      {
+        "name": "Paleta Suína Coop Fresca kg",
+        "price": 20.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Moela de Frango Coop kg",
+        "price": 17.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Suína Aurora Fininha 600g",
+        "price": 24.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Copa do Lombo Suíno Fresca kg",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bisteca Suína Coop Fresca Kg",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Barriga Suína Fresca Coop Kg",
+        "price": 34.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Picanha Bovina Peça a Vácuo kg",
+        "price": 79.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Swift Aprox 1,5kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Suína Congelada Kg",
+        "price": 31.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Sobrecoxa Desossada Ao Molho Chimichurri Seara Gourmet 800g",
+        "price": 20.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Fraldinha Peça 1Kg",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Alcatra Swift Aprox 1,5Kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne Moída Suína Swift 500g",
+        "price": 17.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Picanha Bovina Resfriada Maturatta Friboi Aprox 1,6kg",
+        "price": 99.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango á Passarinho a Granel 1 Kg",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filézinho sassami empanado Swift 700g",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho bovino Swift 900g",
+        "price": 41.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Sobrecoxa sem pele Swift 1kg",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de peito em bifes Swift 1kg",
+        "price": 27.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne moída de frango Swift 500g",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Sardinha congelada Bom Peixe 1kg",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Churrasco Seara 500g",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peru Temperado Congelado Sadia Aprox 4kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Chester Temperado Azeite e Ervas Perdigão Aprox 3,8kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Strogonoff Filé Mignon Bovino 500g",
+        "price": 114.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Picanha bovina à vacuo peça/pedaço Frialto 1Kg",
+        "price": 89.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Suíno 1Kg",
+        "price": 31.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Iscas De Frango Tempurá Sadia 300G",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho De Panceta Temperado Swift 500G",
+        "price": 22.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho Suíno Temperado Swift 900G",
+        "price": 29.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Suíno Mignoneto Sadia 180G",
+        "price": 10.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho De Coxa Com Sobrecoxa De Frango Swift 900G",
+        "price": 31.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho De Frango Com Bacon Swift 900G",
+        "price": 36.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha Da Asa Buffalo Wings Swift 800G",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa E Sobrecoxa De Pato Swift 480G",
+        "price": 41.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Mista Combo 1,5Kg",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Medalhão De Filé Mignon Suíno Swift 1Kg",
+        "price": 35.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pernil Suíno Desfiado Temperado Swift 400G",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lombo Suíno Fatiado Com Molho Barbeuec Swift 1Kg",
+        "price": 52.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça De Pernil Com Queijo Gorgonzola Swift 500G",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Manta De Carne Suína Recheada Com Requeijão E Bacon Rossini 450G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Manta De Carne Suína Recheada Com Queijo Coalho, Tomate E Manjericão Rossini 450G",
+        "price": 27.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Orelha Suína Salgada Coringa 400G",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bisteca Suína Swift 1Kg",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carpaccio De Lagarto Swift 200G",
+        "price": 27.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Ostrinha Da Sobrecoxa De Frango Swift 1Kg",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Medalhão De File Mignon Swift 1Kg",
+        "price": 134.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife De Filé Mignon Swift 1Kg",
+        "price": 99.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bananinha Swift 1Kg",
+        "price": 45.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Mole Iscas Congelado Friboi 500G",
+        "price": 39.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Acém Bovino Em Cubos Congelado Friboi 500G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne Moida Congelada Friboi 500G",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha De Lanchonete #Pop Dog Sadia 250G",
+        "price": 11.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Banha Aurora 450G",
+        "price": 8.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça De Frango Perdigão Na Brasa 700G",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Sobrecoxa De Frango Temperada Bio Fácil Sadia 800G",
+        "price": 18.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa De Frango Temperadas Bio Fácil Sadia 800G",
+        "price": 16.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Filezinho Sassami Do Campo Swift 1Kg",
+        "price": 28.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Galinhada Swift 300G",
+        "price": 20.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração Com Ervas Finas Swift 800G",
+        "price": 31.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Feijão Tropeiro Swift 500G",
+        "price": 30.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé De Frango Aperitivo Com Bacon Swift 350G",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Suíno Aperitivo Com Bacon Swift 350G",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé De Coxa De Frango Swift 1Kg",
+        "price": 20.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração De Frango Swift 1Kg",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Banha Suína Swift 400G",
+        "price": 11.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Barriga Suína Temperada Aperitivo Swift 800G",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bacon Em Cubos Swift 250G",
+        "price": 17.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Mole Em Bifes Swift 1Kg",
+        "price": 57.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cubos De Costela Swift 1Kg",
+        "price": 41.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne Moída Combo Dia A Dia 1Kg Swift",
+        "price": 27.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Kit Feijoada Swift 1Kg",
+        "price": 31.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Torresmo Pré-Frito  Swift 200G",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Defumada Swift 400G",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguica De Pernil Com Pimenta Biquinho Swift 500G",
+        "price": 20.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Medalhão De Filé De Frango Com Bacon Swift 500G",
+        "price": 28.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça De Frango Fina Swift 400G",
+        "price": 17.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito De Pato Swift 480G",
+        "price": 62.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça De Frango Fininha Rossini 400G",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Fina Rossini 400G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Rossini 400G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Paio Prieto 300g",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Weisswurst Branca Hans 240G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Húngara Hans 200G",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Frankfurt Hans 200G",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Com Alho Hans 240G",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Aperitivo Cry Hans 200G",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito De Frango A Passarinho Copacol 800G",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio Da Asa De Frango Temperado Resfriado Adoro 700G",
+        "price": 21.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça De Picanha Suína Prieto 400G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça De Pernil Suíno Limão Siciliano Prieto 400G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Paio Aurora 400G",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça De Costelinha Suína Prieto 400G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Copa Lombo Com Erva Doce E Pimentas Prieto 400G",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Isca Filé De Peito De Frango Empanada Copacol 700G",
+        "price": 34.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Isca De Frango Temperada Empanada Seara 900G",
+        "price": 38.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango A Passarinho Temperado Resfriado Adoro 700G",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé De Peito De Frango Moído Copacol 400G",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé De Coxa E Sobrecoxa Empanado Copacol 700G",
+        "price": 33.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Empanado De Frango Tradicional Big Tekitos Seara 900G",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha Da Asa Empanada Seara 900G",
+        "price": 39.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha Da Asa De Frango Temperado Resfriado Adoro 700G",
+        "price": 13.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Suína Com Molho Barbecue Aurora Premium 900G",
+        "price": 56.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lagarto Bov Moido Kg",
+        "price": 47.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra File Bov Moido Kg",
+        "price": 56.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho Meio das Asas Temperada Korin 500g",
+        "price": 18.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Filezinho Sassami Orgânico Korin 700g",
+        "price": 48.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da Asa Drumette Orgânica Korin 700g",
+        "price": 23.29,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio da Asa Sweet Chilli Aurora Premium 800g",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da Asa Manjericão e Especiarias Aurora Premium 800g",
+        "price": 17.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Suína Prieto Temperada e Assada kg",
+        "price": 69.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Almôndega Bovina Friboi 500g",
+        "price": 19.39,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da Asa de Frango Aurora Empanada 360g",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Defumada Seara 500G",
+        "price": 12.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Cozida Defumada Sadia 400G",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração de Frango Kg",
+        "price": 35.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Coxa e Sobrecoxa de Frango Seara Gourmet com Limão e Ervas 800g",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Seara 2,5kg",
+        "price": 54.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Alcatra Bovina Friboi 1953 Baby Beef kg",
+        "price": 96.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Friboi 1953 kg",
+        "price": 93.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração de Alcatra Bovina Maturatta kg",
+        "price": 73.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango Blesser Temperado Aurora Kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lombo Suíno Temperado Aurora Aprox 2Kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango de Padaria à Passarinho Seara IQF Temperado 1kg",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito de Peru Seara Recheado Aprox 1,2kg",
+        "price": 67.98,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Sadia 700g",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Mista Sadia Fininha Cozida Defumada 215g",
+        "price": 8.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Mista Perdigão Fininha Cozida Defumada 215g",
+        "price": 9.69,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango Inteiro Aurora Blesser Preparo Fácil Congelado Peça Aprox 4kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filezinho de Frango Sassami Seara IQF 1kg",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Bovino Coop a Vácuo 1Kg",
+        "price": 99.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carpaccio de Lagarto Bovino Wessel 200g",
+        "price": 31.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bacon Suíno Aurora Defumado Fatiado 250g",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Almôndega Bovina Aurora 500g",
+        "price": 21.69,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Portuguesa Prieto Defumada kg",
+        "price": 45.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Portuguesa Perdigão kg",
+        "price": 44.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de Frango Rocca Fina kg",
+        "price": 36.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Músculo Bovino Coop Traseiro kg",
+        "price": 38.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mocotó Bovino Coop kg",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Acém Bovino Coop Miolo 1kg",
+        "price": 51.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Salerno com Queijo e Rúcula 500g",
+        "price": 24.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Salerno Fina 500g",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Salerno Aperitivo Apimentada 500g",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio da Asa de Frango Ad'oro Temperado Resfriado 1kg",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ossobuco Bovino Coop Fatiado kg",
+        "price": 32.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Mista Aurora Premium Apimentada Fininha 600g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Peito de Frango em Cubos Seara IQF 1kg",
+        "price": 30.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da Asa de Frango Seara Empanado Crocante Apimentada 400g",
+        "price": 19.29,
+        "market": "Coop"
+      },
+      {
+        "name": "Iscas de frango tradicional empanado crocante Seara 300g",
+        "price": 14.69,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Coxa e Sobrecoxa de Frango Seara 1kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Peito de Frango Seara em Tiras IQF 1kg",
+        "price": 30.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ponta de Agulha Congelada Coop 1kg",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Iscas de Frango Coop Temperado para Strogonoff kg",
+        "price": 32.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Sobrecoxa de Frango Aurora com Chimichurri 800g",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa da Asa de Frango Aurora Premium Aipim 800g",
+        "price": 18.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango a Passarinho Ad'oro Temperado Resfriado 1kg",
+        "price": 16.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Barriga Suína Coop Fatiada 1kg",
+        "price": 33.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Coop Gaúcho Bife 1kg",
+        "price": 62.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife Bovino Coop à Milanesa 1kg",
+        "price": 55.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino com Osso Coop kg",
+        "price": 56.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Coop com Osso Congelado 1,5kg",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Hot Dog Swift 500g",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de Frango Seara Gourmet Bacon 500g",
+        "price": 18.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Galinha Inteira Swift kg",
+        "price": 7.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango Inteiro com Pele Congelado Aprox 3,5kg",
+        "price": 10.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango Coop Temperado sem Miúdo 1kg",
+        "price": 11.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Fígado de Frango 1kg",
+        "price": 7.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Viena Ceratti 500g",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Aurora Hot Dog Embalagem 500g",
+        "price": 8.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito de Frango Adoro Filé Aprox 600g",
+        "price": 31.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pescoço de Frango a Granel 500g",
+        "price": 7.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Pé de Frango a Granel 1kg",
+        "price": 13.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito Bovino Swift Já Pro Forno Aprox 1,3kg",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maminha Bovina Swift Congelada Aprox 1,8kg",
+        "price": 62.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lagarto Bovino Swift sem Pele 1,2Kg",
+        "price": 55.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lagarto Bovino Swift Aprox 1,2kg",
+        "price": 43.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Galeto Swift 1kg",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Fraldinha Bovina Swift sem Gordura 1kg",
+        "price": 118.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cupim Bovino Swift Já Pro Forno Aprox 1,2kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Bovina Swift Quadrada Aprox 2,5kg",
+        "price": 34.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Bovina Swift Já Pro Forno Aprox 1,3kg",
+        "price": 41.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Swift Aprox 1,2kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife Rolê Bovino Swift 1kg",
+        "price": 53.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife Ancho Bovino Swift Gran Reserva Aprox 1,2kg",
+        "price": 141.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife Ancho Bovino Swift Aprox 1kg",
+        "price": 60.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Alcatra Bovina Swift Já Pro Forno Aprox 1,5kg",
+        "price": 62.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango Inteiro Caipira Nhô Bento Seara Aprox 3kg",
+        "price": 21.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha de Peru Sadia Light 500g",
+        "price": 13.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito de Frango Sadia kg",
+        "price": 46.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Rabo Suíno Prieto Salgado 400g",
+        "price": 13.79,
+        "market": "Coop"
+      },
+      {
+        "name": "Orelha Suína Prieto Salgada 400g",
+        "price": 10.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela Suína Prieto Defumada 300g",
+        "price": 65.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho Bovino Friboi Temperado com Kafta 500g",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bacon de Lombo Prieto Kg",
+        "price": 79.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Mocotó Bovino Swift 1,3kg",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Tipo Viena Perdigão 500g",
+        "price": 13.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Perdigão Hot Dog 500g",
+        "price": 12.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Peito de Frango Vapza Desfiado e Cozido 400g",
+        "price": 28.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Perdigão Nabrasa Alho e Ervas 600g",
+        "price": 25.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Perdigão 500g",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango a Passarinho Sadia Temperado 1kg",
+        "price": 19.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango à Passarinho Sadia 1kg",
+        "price": 18.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Peito de Frango Perdigão 800g",
+        "price": 21.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Rabo Bovino 1kg",
+        "price": 37.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Sadia 2,5kg",
+        "price": 79.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Tiras de Frango Vegetal Fazenda Futuro 200g",
+        "price": 20.79,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Coxa e Sobrecoxa sem Pele do Campo Swift 1kg",
+        "price": 24.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Sobrecoxa Já Pro Forno Swift 800g",
+        "price": 13.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Defumada Fininha Swift 215g",
+        "price": 8.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Swift 500g",
+        "price": 20.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Patinho Peça 1Kg",
+        "price": 53.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Músculo Traseiro Peça 1Kg",
+        "price": 38.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Miolo de Alcatra 1Kg",
+        "price": 59.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lagarto Peça 1Kg",
+        "price": 47.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Peça 1Kg",
+        "price": 99.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bombom de Alcatra Gran Reserva Swift Aprox 1,2Kg",
+        "price": 89.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Duro Peça 1Kg",
+        "price": 48.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Gran Reserva Swift Aprox 1,5kg",
+        "price": 104.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Peito de Frango Congelado sem Pele e sem Osso Sadia 1Kg",
+        "price": 30.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango á Passarinho Temperado Congelado Copacol 800g",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela no Bafo Swift Aprox 1,5kg",
+        "price": 35.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Petisco de Frango Temperado Congelado Copacol 1Kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango á Passarinho Congelado Copacol 800g",
+        "price": 14.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da Asa de Frango Copacol Drumette 800g",
+        "price": 16.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Carré Suíno 1Kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Cuiabana Suína com Queijo Seara Gourmet 500g",
+        "price": 19.59,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de Queijo Coalho Swift 500g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife de Chorizo Swift Aprox 1,5Kg",
+        "price": 66.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Fina Rocca 500g",
+        "price": 39.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Baby Picanha Swift Aprox 1kg",
+        "price": 115.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Barriga Suína para Torresmo 1Kg",
+        "price": 33.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio da Asa Temperado Resfriado Adoro 1Kg",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cubos de Pernil 1Kg",
+        "price": 23.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de Pernil Alho Swift 500g",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de Pernil com Pimenta Biquinho Seara Gourmet 500g",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Toscana Fina Swift 500g",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de Pernil Provolone Swift 500g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bucho Bovino 1Kg",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Paleta Bovina 1Kg",
+        "price": 44.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela em Ripa",
+        "price": 35.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maminha 1Kg",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Costela Bovino Maturatta Friboi Aprox 1,3kg",
+        "price": 69.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Hambúrguer de Alcatra 1Kg",
+        "price": 71.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração de Alcatra Bovino Maturatta Friboi Aprox 1,3kg",
+        "price": 65.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Rocambole de Carne Bovina 1Kg",
+        "price": 55.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Picanha Nobre Ouro Swift Aprox 1,1kg",
+        "price": 89.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango á Passarinho Temperado Resfriado Adoro Aprox 600g",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Peito de Frango Adoro Aprox 600g",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da Asa Temperada Adoro Aprox 600g",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa e Sobrecoxa de Frango 1Kg",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bife á Rolê de Frango 1Kg",
+        "price": 34.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Viena com Grãos de Mostarda Ceratti 200g",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Viena Ceratti 200g",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Fininha Defumada Seara 215g",
+        "price": 9.39,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Peito de Frango Copacol 800g",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa e Sobrecoxa de Frango Copacol á Passarinho 800g",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa de Frango Temperado Swift 1kg",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa de Frango congela Copacol 800g",
+        "price": 12.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Tiras de alcatra Swift 500g",
+        "price": 31.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio da asa de frango Seara IQF 1kg",
+        "price": 26.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio da asa temperada Swift 1kg",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça cuiabana de frango Swift 900g",
+        "price": 34.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango à passarinho Swift  1kg",
+        "price": 11.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Peito Seara Orgânico Bandeja 600g",
+        "price": 27.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de peito temperado Swift  1kg",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de coxa e sobrecoxa Seara Orgânico IQF 600g",
+        "price": 24.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho linguiça apimentada Swift 500g",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho de linguiça Swift 900g",
+        "price": 36.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho de kafta Swift 900g",
+        "price": 44.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho de frango peito Swift 900g",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho de coração Swift 900g",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Espetinho bovino com bacon Swift 900g",
+        "price": 44.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa da Asa de Frango Sadia Empanadas Pouch 400g",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne moída vegetal Fazenda Futuro Burger 270g",
+        "price": 29.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio da Asa Temperada Resfriada Adoro Aprox 600g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filezinho de frango congelado Sadia 1kg",
+        "price": 33.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça calabresa apimentada Swift 500g",
+        "price": 20.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça de lombo fina Swift 500g",
+        "price": 22.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da asa do campo Swift 1kg",
+        "price": 19.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Torresmo pré frito Swift 500g",
+        "price": 24.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Polpetone Seara Gourmet 320g",
+        "price": 31.79,
+        "market": "Coop"
+      },
+      {
+        "name": "Meio da asa de frango Temperada Suculentíssimo Seara IQF 1kg",
+        "price": 32.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça pernil com alho Rocca 500g",
+        "price": 20.39,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça cuiabana bovina Swift 900g",
+        "price": 35.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Isca sabor frango Swift 300g",
+        "price": 12.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Filezinho de peito Sassami Dagranja IQF 1kg Seara",
+        "price": 28.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Cubos de pernil suíno Swift 500g",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da asa temperado Swift 1kg",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa de frango sem pele Swift 1kg",
+        "price": 16.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne moída light Swift 500g",
+        "price": 25.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça toscana Swift 700g",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de peito de frango bio Sadia 1kg",
+        "price": 31.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Almôndega Seara 500g",
+        "price": 28.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Calabresa Curada Seara 400g",
+        "price": 14.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de merluza congelado Costa Sul 500g",
+        "price": 39.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de Frango Parmegiana Todo Sabor Sadia 500g",
+        "price": 24.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé de frango sem pele sem osso com alho, cebola e ervas Sadia 700g",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela suína salgada Coringa 400g",
+        "price": 21.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Tirinhas de tilápia Copacol 1,5kg",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Pé suíno salgado Coringa 400g",
+        "price": 10.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha de frango Perdigão 500g",
+        "price": 12.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Portuguesa Perdigão 400g",
+        "price": 18.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Frango à Passarinho Congelado Seara IQF 1kg",
+        "price": 15.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Peito de Frango Temperado Congelado Sadia 1kg",
+        "price": 27.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Costela barbecue Seara Gourmet 1kg",
+        "price": 76.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Carne Seca Bovina Vapza Desfiada e Cozida 400g",
+        "price": 52.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Alcatra Bovina Extra Limpa 1kg",
+        "price": 80.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha de Frango Sadia 500g",
+        "price": 13.89,
+        "market": "Coop"
+      },
+      {
+        "name": "Kafta Bovina 1kg",
+        "price": 61.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Mole Bovino Extra Limpo 1kg",
+        "price": 73.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Duro Bovino Especial peça/pedaço 1Kg",
+        "price": 63.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Extra Limpo 1kg",
+        "price": 71.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Bombom de Alcatra Bovino 1kg",
+        "price": 71.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração de Frango 1Kg",
+        "price": 38.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Patinho Bovino Especial 1kg",
+        "price": 75.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Hamburguer Bovino 1kg",
+        "price": 48.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Paleta Bovina para Assar Bola 1Kg",
+        "price": 51.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Lagarto Bovino Fatiado 1kg",
+        "price": 57.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Bovino Bife 1kg",
+        "price": 99.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Almôndega Bovina 1kg",
+        "price": 55.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Peru Temperado Perdigão Peça Aprox 4kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lombo Temperado Perdigão Aprox 1kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ave Temperada Supreme Sadia Aprox 3,8kg",
+        "price": 9.98,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxinha da Asa de Frango Temperada Assa Fácil Perdigão 1Kg",
+        "price": 27.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa de Frango Temperada Assa Fácil Perdição 1.2Kg",
+        "price": 18.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Chester Desososado Perdigão Aprox 2,6kg",
+        "price": 19.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Ave Fiesta Desossada Seara Aprox 2,6kg",
+        "price": 9.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Strogonoff Bovino Patinho 500g",
+        "price": 69.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Strogonoff Bovino Coxão Mole 500g",
+        "price": 68.49,
+        "market": "Coop"
+      },
+      {
+        "name": "Strogonoff alcatra 500g",
+        "price": 71.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Viena Fina Ceratti 500g",
+        "price": 44.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Grossa com Alho Ceratti 500g",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Patinho Bovino Fatiado 1Kg",
+        "price": 58.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Medalhão Bovino Filé Mignon 1kg",
+        "price": 114.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Maminha Bovina a Vácuo Aprox 1,3kg",
+        "price": 49.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Lombo Suíno 1kg",
+        "price": 33.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Fraldinha Bovina à Vácuo Aprox 1,6kg",
+        "price": 51.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé mignon bovino especial peça/pedaço 1Kg",
+        "price": 129.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Filé Mignon Bovino Peça 1Kg",
+        "price": 99.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Mole Bovino Fatiado 1Kg",
+        "price": 57.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Duro Bovino Fatiado 1Kg",
+        "price": 55.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxão Duro Bovino Peça 1Kg",
+        "price": 48.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Coração da Alcatra Bovino Fatiado 1Kg",
+        "price": 68.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Contra Filé Bovino Fatiado 1Kg",
+        "price": 65.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Barriga Suína 1Kg",
+        "price": 33.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Baby Beef Alcatra Bovina 1,5kg",
+        "price": 71.99,
+        "market": "Coop"
+      },
+      {
+        "name": "Salsicha Hot Dog Seara 500g",
+        "price": 12.69,
+        "market": "Coop"
+      },
+      {
+        "name": "Linguiça Paio Perdigão 370g",
+        "price": 18.19,
+        "market": "Coop"
+      },
+      {
+        "name": "Coxa de Frango Congelado Temperado Assa Fácil Sadia 800g",
+        "price": 16.99,
+        "market": "Coop"
+      }
+    ]
+  }
+}
