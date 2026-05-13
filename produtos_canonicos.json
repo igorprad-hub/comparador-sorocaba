@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-05-12T20:53:54.695279",
+  "atualizado_em": "2026-05-13T21:02:03.305076",
   "categorias": {
     "hortifruti": {
       "aprovados": [
@@ -131,6 +131,49 @@
                 "Confianca": 3.94,
                 "Tauste": 3.95
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Confianca": 3.15,
+                "Tauste": 3.95
+              },
+              "por_kg": {
+                "Confianca": 3.94,
+                "Tauste": 3.95
+              }
+            }
+          ]
+        },
+        {
+          "id": "alho-250g",
+          "nome": "Alho  250g",
+          "mercados": {
+            "Tauste": {
+              "nome": "Alho  250g",
+              "peso_kg": 0.25,
+              "preco_atual": 7.45,
+              "por_kg": 29.8
+            },
+            "Confianca": {
+              "nome": "Alho Fresco 200g",
+              "peso_kg": 0.2,
+              "preco_atual": 5.98,
+              "por_kg": 29.9
+            }
+          },
+          "confidence": 1.0,
+          "historico": [
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Tauste": 7.45,
+                "Confianca": 5.98
+              },
+              "por_kg": {
+                "Tauste": 29.8,
+                "Confianca": 29.9
+              }
             }
           ]
         },
@@ -254,6 +297,17 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Coop": 3.99,
+                "Tauste": 3.35
+              },
+              "por_kg": {
+                "Coop": 22.17,
+                "Tauste": 3.35
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Coop": 3.99,
                 "Tauste": 3.35
@@ -393,6 +447,17 @@
                 "Tauste": 2.95,
                 "Coop": 13.61
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Tauste": 2.36,
+                "Coop": 5.99
+              },
+              "por_kg": {
+                "Tauste": 2.95,
+                "Coop": 13.61
+              }
             }
           ]
         },
@@ -524,6 +589,17 @@
                 "Tauste": 5.85,
                 "Coop": 19.98
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Tauste": 4.68,
+                "Coop": 8.99
+              },
+              "por_kg": {
+                "Tauste": 5.85,
+                "Coop": 19.98
+              }
             }
           ]
         },
@@ -647,6 +723,17 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Tauste": 6.37,
+                "Coop": 7.99
+              },
+              "por_kg": {
+                "Tauste": 7.96,
+                "Coop": 24.21
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Tauste": 6.37,
                 "Coop": 7.99
@@ -812,6 +899,19 @@
                 "Coop": 9.98,
                 "Tauste": 7.64
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Confianca": 7.98,
+                "Coop": 4.99,
+                "Tauste": 5.73
+              },
+              "por_kg": {
+                "Confianca": 15.96,
+                "Coop": 9.98,
+                "Tauste": 7.64
+              }
             }
           ]
         },
@@ -956,6 +1056,19 @@
                 "Confianca": 11.96,
                 "Coop": 9.98
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Tauste": 5.73,
+                "Confianca": 5.98,
+                "Coop": 4.99
+              },
+              "por_kg": {
+                "Tauste": 7.64,
+                "Confianca": 11.96,
+                "Coop": 9.98
+              }
             }
           ]
         },
@@ -1079,6 +1192,17 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Coop": 4.99,
+                "Tauste": 2.38
+              },
+              "por_kg": {
+                "Coop": 16.63,
+                "Tauste": 2.97
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Coop": 4.99,
                 "Tauste": 2.38
@@ -1218,6 +1342,17 @@
                 "Coop": 26.6,
                 "Tauste": 2.95
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Coop": 3.99,
+                "Tauste": 1.77
+              },
+              "por_kg": {
+                "Coop": 26.6,
+                "Tauste": 2.95
+              }
             }
           ]
         },
@@ -1349,6 +1484,17 @@
                 "Coop": 10.47,
                 "Tauste": 5.95
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Coop": 6.49,
+                "Tauste": 4.76
+              },
+              "por_kg": {
+                "Coop": 10.47,
+                "Tauste": 5.95
+              }
             }
           ]
         },
@@ -1447,6 +1593,17 @@
                 "Coop": 14.53,
                 "Confianca": 6.95
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Coop": 7.99,
+                "Confianca": 6.95
+              },
+              "por_kg": {
+                "Coop": 14.53,
+                "Confianca": 6.95
+              }
             }
           ]
         },
@@ -1527,6 +1684,14 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Confianca": 9.75,
+                "Coop": 9.99
+              },
+              "por_kg": null
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Confianca": 9.75,
                 "Coop": 9.99
@@ -1655,6 +1820,17 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Tauste": 6.36,
+                "Coop": 9.99
+              },
+              "por_kg": {
+                "Tauste": 7.95,
+                "Coop": 45.41
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Tauste": 6.36,
                 "Coop": 9.99
@@ -1794,6 +1970,17 @@
                 "Confianca": 27.9,
                 "Coop": 17.11
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Confianca": 8.37,
+                "Coop": 5.99
+              },
+              "por_kg": {
+                "Confianca": 27.9,
+                "Coop": 17.11
+              }
             }
           ]
         }
@@ -1802,7 +1989,7 @@
         {
           "nome_a": "Tomate Doce Grape Bandeja 180g",
           "mercado_a": "Tauste",
-          "preco_a": 3.55,
+          "preco_a": 4.95,
           "nome_b": "Tomate Grape 180g",
           "mercado_b": "Confianca",
           "preco_b": 4.98,
@@ -1863,6 +2050,24 @@
           "score": 76.9
         },
         {
+          "nome_a": "Manga Tommy Atkins  800g",
+          "mercado_a": "Tauste",
+          "preco_a": 6.36,
+          "nome_b": "Manga Tommy - Aproximadamente 1kg",
+          "mercado_b": "Confianca",
+          "preco_b": 6.95,
+          "score": 75.9
+        },
+        {
+          "nome_a": "Pepino Caipira  800g",
+          "mercado_a": "Tauste",
+          "preco_a": 7.16,
+          "nome_b": "Pepino Caipira 600g - Aproximadamente 2 Unidades",
+          "mercado_b": "Confianca",
+          "preco_b": 4.79,
+          "score": 75.7
+        },
+        {
           "nome_a": "Pepino Japonês 1 Unidade Aprox 220g",
           "mercado_a": "Coop",
           "preco_a": 9.99,
@@ -1876,6 +2081,15 @@
           "mercado_a": "Tauste",
           "preco_a": 5.75,
           "nome_b": "Laranja Pera 1 unidade Aprox 200g",
+          "mercado_b": "Coop",
+          "preco_b": 5.99,
+          "score": 75.0
+        },
+        {
+          "nome_a": "Milho Verde Bandeja 600g",
+          "mercado_a": "Tauste",
+          "preco_a": 7.45,
+          "nome_b": "Repolho Verde 1 Unidade Aprox 1,4kg",
           "mercado_b": "Coop",
           "preco_b": 5.99,
           "score": 75.0
@@ -1917,6 +2131,24 @@
           "score": 73.7
         },
         {
+          "nome_a": "Cebola Roxa  800g",
+          "mercado_a": "Tauste",
+          "preco_a": 6.84,
+          "nome_b": "Cebola Roxa Benassi 1 Unidade Aprox 170g",
+          "mercado_b": "Coop",
+          "preco_b": 6.99,
+          "score": 73.3
+        },
+        {
+          "nome_a": "Abobrinha Brasil  800g",
+          "mercado_a": "Tauste",
+          "preco_a": 7.16,
+          "nome_b": "Abobrinha Brasileira Inteira - Aproximadamente 600g",
+          "mercado_b": "Confianca",
+          "preco_b": 5.98,
+          "score": 72.7
+        },
+        {
           "nome_a": "Laranja Pera 1 unidade Aprox 200g",
           "mercado_a": "Coop",
           "preco_a": 5.99,
@@ -1926,13 +2158,13 @@
           "score": 72.7
         },
         {
-          "nome_a": "Banana Prata 1 unidade Aprox 190g",
-          "mercado_a": "Coop",
-          "preco_a": 9.99,
-          "nome_b": "Banana Prata 1kg - Aproximadamente 8 Unidades",
-          "mercado_b": "Confianca",
-          "preco_b": 11.95,
-          "score": 72.7
+          "nome_a": "Repolho Roxo 700g",
+          "mercado_a": "Tauste",
+          "preco_a": 6.26,
+          "nome_b": "Repolho Verde 1 Unidade Aprox 1,4kg",
+          "mercado_b": "Coop",
+          "preco_b": 5.99,
+          "score": 72.0
         },
         {
           "nome_a": "Ovo Extra Branco Com 10 Unidades",
@@ -1962,40 +2194,22 @@
           "score": 69.0
         },
         {
+          "nome_a": "Milho Verde Bandeja 600g",
+          "mercado_a": "Tauste",
+          "preco_a": 7.45,
+          "nome_b": "Milho Verde Fernandes Bandeja 600g",
+          "mercado_b": "Confianca",
+          "preco_b": 5.98,
+          "score": 68.8
+        },
+        {
           "nome_a": "Tomate Doce Grape Bandeja 180g",
           "mercado_a": "Tauste",
-          "preco_a": 3.55,
+          "preco_a": 4.95,
           "nome_b": "Tomate Sweet Grape 180g",
           "mercado_b": "Coop",
           "preco_b": 4.99,
           "score": 68.6
-        },
-        {
-          "nome_a": "Mandioca  1000g",
-          "mercado_a": "Tauste",
-          "preco_a": 3.95,
-          "nome_b": "Mandioca a Vácuo Pacote 1kg",
-          "mercado_b": "Coop",
-          "preco_b": 9.99,
-          "score": 66.7
-        },
-        {
-          "nome_a": "Alface Crespa  Maço",
-          "mercado_a": "Tauste",
-          "preco_a": 4.49,
-          "nome_b": "Alface Crespa Benassi",
-          "mercado_b": "Coop",
-          "preco_b": 3.99,
-          "score": 66.7
-        },
-        {
-          "nome_a": "Alface Crespa Hidropônica Maço",
-          "mercado_a": "Tauste",
-          "preco_a": 4.49,
-          "nome_b": "Alface Crespa Benassi",
-          "mercado_b": "Coop",
-          "preco_b": 3.99,
-          "score": 66.7
         },
         {
           "nome_a": "Cebola Nacional 1 unidade Aprox 160g",
@@ -2034,6 +2248,15 @@
           "score": 64.7
         },
         {
+          "nome_a": "Pepino Caipira  800g",
+          "mercado_a": "Tauste",
+          "preco_a": 7.16,
+          "nome_b": "Pepino Japonês 1 Unidade Aprox 220g",
+          "mercado_b": "Coop",
+          "preco_b": 9.99,
+          "score": 64.3
+        },
+        {
           "nome_a": "Maracujá Azedo Benassi 1 Unidade Aprox 410g",
           "mercado_a": "Coop",
           "preco_a": 8.99,
@@ -2043,13 +2266,13 @@
           "score": 64.2
         },
         {
-          "nome_a": "Rúcula Hidropônica Maço",
+          "nome_a": "Abacaxi Pérola em Cubos Tauste  300g",
           "mercado_a": "Tauste",
-          "preco_a": 4.95,
-          "nome_b": "Rúcula Hidropônica Benassi 1 Unidade",
-          "mercado_b": "Coop",
-          "preco_b": 7.99,
-          "score": 64.0
+          "preco_a": 7.17,
+          "nome_b": "Abacaxi Pérola Unidade",
+          "mercado_b": "Confianca",
+          "preco_b": 9.95,
+          "score": 63.6
         },
         {
           "nome_a": "Cheiro Verde Benassi",
@@ -2079,13 +2302,13 @@
           "score": 62.2
         },
         {
-          "nome_a": "Pimenta Americana  100g",
+          "nome_a": "Cebola Roxa  800g",
           "mercado_a": "Tauste",
-          "preco_a": 1.19,
-          "nome_b": "Laranja Pera 1 unidade Aprox 200g",
-          "mercado_b": "Coop",
-          "preco_b": 5.99,
-          "score": 62.1
+          "preco_a": 6.84,
+          "nome_b": "Cebola Granel 1kg - Aproximadamente 8 Unidades",
+          "mercado_b": "Confianca",
+          "preco_b": 7.75,
+          "score": 61.5
         },
         {
           "nome_a": "Coco Verde Benassi 1 Unidade Aprox 2,3kg",
@@ -2124,22 +2347,13 @@
           "score": 60.6
         },
         {
-          "nome_a": "Quiabo  400g",
+          "nome_a": "Pêra WilliamS  800g",
           "mercado_a": "Tauste",
-          "preco_a": 5.19,
-          "nome_b": "Quiabo Benassi Bandeja 300g",
-          "mercado_b": "Coop",
-          "preco_b": 5.99,
-          "score": 60.0
-        },
-        {
-          "nome_a": "Alface Bicolor Hidropônica Maço",
-          "mercado_a": "Tauste",
-          "preco_a": 5.95,
-          "nome_b": "Alface Crespa Benassi",
-          "mercado_b": "Coop",
-          "preco_b": 3.99,
-          "score": 60.0
+          "preco_a": 7.16,
+          "nome_b": "Pera Williams Inteira 600g - Aproximadamente 4 Unidades",
+          "mercado_b": "Confianca",
+          "preco_b": 6.99,
+          "score": 60.5
         },
         {
           "nome_a": "Maçã Gala 800g",
@@ -2151,28 +2365,37 @@
           "score": 60.0
         },
         {
-          "nome_a": "Pimenta Americana  100g",
+          "nome_a": "Tomate Doce Grape Bee Organic Bandeja 180g",
           "mercado_a": "Tauste",
-          "preco_a": 1.19,
-          "nome_b": "Alface D'Terra Americana",
-          "mercado_b": "Confianca",
-          "preco_b": 6.95,
-          "score": 58.5
+          "preco_a": 6.95,
+          "nome_b": "Tomate Débora Benassi 1 Unidade Aprox 180g",
+          "mercado_b": "Coop",
+          "preco_b": 9.99,
+          "score": 60.0
         },
         {
-          "nome_a": "Agrião Hidropônico Maço",
+          "nome_a": "Tomate Doce Grape Bee Organic Bandeja 180g",
           "mercado_a": "Tauste",
-          "preco_a": 4.95,
-          "nome_b": "Melão Amarelo 1 Unidade Aprox 2,7kg",
-          "mercado_b": "Coop",
-          "preco_b": 8.99,
-          "score": 58.3
+          "preco_a": 6.95,
+          "nome_b": "Tomate Grape 180g",
+          "mercado_b": "Confianca",
+          "preco_b": 4.98,
+          "score": 58.5
         },
         {
           "nome_a": "Batata Baroa  800g",
           "mercado_a": "Tauste",
           "preco_a": 5.4,
           "nome_b": "Banana Prata 1 unidade Aprox 190g",
+          "mercado_b": "Coop",
+          "preco_b": 9.99,
+          "score": 58.3
+        },
+        {
+          "nome_a": "Ovo Grande Branco Preti Bandeja C/6",
+          "mercado_a": "Tauste",
+          "preco_a": 6.45,
+          "nome_b": "Ovo Extra Branco Com 10 Unidades",
           "mercado_b": "Coop",
           "preco_b": 9.99,
           "score": 58.3
@@ -2219,25 +2442,25 @@
           "preco_a": 6.79,
           "nome_b": "Brócolis Sadia Veg&Tal Congelado 300g",
           "mercado_b": "Confianca",
-          "preco_b": 5.17,
+          "preco_b": 7.27,
           "score": 57.1
+        },
+        {
+          "nome_a": "Cebolinha Sou da Terra Pote 80g",
+          "mercado_a": "Tauste",
+          "preco_a": 6.29,
+          "nome_b": "Alface D'Terra Americana",
+          "mercado_b": "Confianca",
+          "preco_b": 6.95,
+          "score": 56.5
         },
         {
           "nome_a": "Hortelã Maço",
           "mercado_a": "Tauste",
-          "preco_a": 2.95,
+          "preco_a": 3.55,
           "nome_b": "Melão Amarelo 1 Unidade Aprox 2,7kg",
           "mercado_b": "Coop",
           "preco_b": 8.99,
-          "score": 56.0
-        },
-        {
-          "nome_a": "Acelga Peça 300g",
-          "mercado_a": "Tauste",
-          "preco_a": 5.95,
-          "nome_b": "Abacaxi Pérola Unidade",
-          "mercado_b": "Confianca",
-          "preco_b": 9.95,
           "score": 56.0
         },
         {
@@ -2381,6 +2604,17 @@
                 "Confianca": 16.77,
                 "Tauste": 10.49
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Confianca": 16.77,
+                "Tauste": 10.49
+              },
+              "por_kg": {
+                "Confianca": 16.77,
+                "Tauste": 10.49
+              }
             }
           ]
         },
@@ -2460,6 +2694,17 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Coop": 14.29,
+                "Tauste": 13.49
+              },
+              "por_kg": {
+                "Coop": 17.86,
+                "Tauste": 16.86
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Coop": 14.29,
                 "Tauste": 13.49
@@ -2599,6 +2844,17 @@
                 "Coop": 12.99,
                 "Confianca": 6.86
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Coop": 12.99,
+                "Confianca": 10.29
+              },
+              "por_kg": {
+                "Coop": 12.99,
+                "Confianca": 6.86
+              }
             }
           ]
         },
@@ -2673,6 +2929,16 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Coop": 11.99,
+                "Confianca": 10.29
+              },
+              "por_kg": {
+                "Confianca": 6.86
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Coop": 11.99,
                 "Confianca": 10.29
@@ -2767,6 +3033,17 @@
                 "Coop": 26.65,
                 "Tauste": 19.89
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Coop": 15.99,
+                "Tauste": 13.92
+              },
+              "por_kg": {
+                "Coop": 26.65,
+                "Tauste": 19.89
+              }
             }
           ]
         },
@@ -2802,6 +3079,17 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Tauste": 14.98,
+                "Confianca": 22.9
+              },
+              "por_kg": {
+                "Tauste": 18.72,
+                "Confianca": 22.9
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Tauste": 14.98,
                 "Confianca": 22.9
@@ -2941,6 +3229,17 @@
                 "Tauste": 12.87,
                 "Coop": 11.49
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Tauste": 12.87,
+                "Coop": 11.49
+              },
+              "por_kg": {
+                "Tauste": 12.87,
+                "Coop": 11.49
+              }
             }
           ]
         },
@@ -3072,6 +3371,17 @@
                 "Tauste": 5.29,
                 "Confianca": 5.39
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Tauste": 5.29,
+                "Confianca": 5.39
+              },
+              "por_kg": {
+                "Tauste": 5.29,
+                "Confianca": 5.39
+              }
             }
           ]
         },
@@ -3129,6 +3439,17 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Tauste": 14.79,
+                "Confianca": 12.45
+              },
+              "por_kg": {
+                "Tauste": 29.58,
+                "Confianca": 24.9
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Tauste": 14.79,
                 "Confianca": 12.45
@@ -3268,6 +3589,17 @@
                 "Confianca": 15.98,
                 "Tauste": 17.57
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Confianca": 7.99,
+                "Tauste": 12.3
+              },
+              "por_kg": {
+                "Confianca": 15.98,
+                "Tauste": 17.57
+              }
             }
           ]
         },
@@ -3391,6 +3723,17 @@
             },
             {
               "ts": "2026-05-12T20:53:54.695279",
+              "precos": {
+                "Confianca": 2.89,
+                "Coop": 7.49
+              },
+              "por_kg": {
+                "Confianca": 5.78,
+                "Coop": 14.98
+              }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
               "precos": {
                 "Confianca": 2.89,
                 "Coop": 7.49
@@ -3530,6 +3873,17 @@
                 "Tauste": 9.89,
                 "Confianca": 9.98
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Tauste": 6.92,
+                "Confianca": 4.99
+              },
+              "por_kg": {
+                "Tauste": 9.89,
+                "Confianca": 9.98
+              }
             }
           ]
         },
@@ -3628,6 +3982,17 @@
                 "Confianca": 14.98,
                 "Tauste": 14.79
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Confianca": 14.98,
+                "Tauste": 10.35
+              },
+              "por_kg": {
+                "Confianca": 14.98,
+                "Tauste": 14.79
+              }
             }
           ]
         },
@@ -3648,7 +4013,7 @@
               "por_kg": 14.89
             }
           },
-          "confidence": 0.894,
+          "confidence": 0.963,
           "historico": [
             {
               "ts": "2026-05-06T20:15:58.835078",
@@ -3726,6 +4091,17 @@
                 "Tauste": 14.55,
                 "Confianca": 14.89
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Tauste": 14.55,
+                "Confianca": 14.89
+              },
+              "por_kg": {
+                "Tauste": 14.55,
+                "Confianca": 14.89
+              }
             }
           ]
         },
@@ -3752,7 +4128,7 @@
               "por_kg": 14.79
             }
           },
-          "confidence": 0.909,
+          "confidence": 0.864,
           "historico": [
             {
               "ts": "2026-05-05T07:27:50.377803",
@@ -3883,6 +4259,19 @@
                 "Confianca": 14.98,
                 "Tauste": 14.79
               }
+            },
+            {
+              "ts": "2026-05-13T21:02:03.305076",
+              "precos": {
+                "Coop": 12.99,
+                "Confianca": 14.98,
+                "Tauste": 10.35
+              },
+              "por_kg": {
+                "Coop": 12.99,
+                "Confianca": 14.98,
+                "Tauste": 14.79
+              }
             }
           ]
         }
@@ -3979,6 +4368,15 @@
           "score": 75.7
         },
         {
+          "nome_a": "Paleta Suína sem Osso Bandeja  700g",
+          "mercado_a": "Tauste",
+          "preco_a": 13.97,
+          "nome_b": "Paleta Suína Com Osso e Pele Bandeja 1kg",
+          "mercado_b": "Confianca",
+          "preco_b": 11.49,
+          "score": 75.6
+        },
+        {
           "nome_a": "Coxa e Sobrecoxa de Frango Copacol á Passarinho 800g",
           "mercado_a": "Coop",
           "preco_a": 11.59,
@@ -4000,15 +4398,6 @@
           "nome_a": "Coxinha da Asa Korin sem Transgênicos Bandeja 600g",
           "mercado_a": "Tauste",
           "preco_a": 12.79,
-          "nome_b": "Coxinha da Asa de Frango Resfriado Bandeja 500g",
-          "mercado_b": "Confianca",
-          "preco_b": 9.48,
-          "score": 73.7
-        },
-        {
-          "nome_a": "Coxinha da Asa  700g",
-          "mercado_a": "Tauste",
-          "preco_a": 12.92,
           "nome_b": "Coxinha da Asa de Frango Resfriado Bandeja 500g",
           "mercado_b": "Confianca",
           "preco_b": 9.48,
@@ -4060,6 +4449,15 @@
           "score": 71.0
         },
         {
+          "nome_a": "Bisteca Suína Sadia Pacote 800g",
+          "mercado_a": "Tauste",
+          "preco_a": 14.89,
+          "nome_b": "Bisteca Suína Copa Lombo Bandeja 500g",
+          "mercado_b": "Confianca",
+          "preco_b": 9.49,
+          "score": 69.8
+        },
+        {
           "nome_a": "Coxa e Sobrecoxa de Frango Confina Alimentos Congelada Pacote 1000g",
           "mercado_a": "Tauste",
           "preco_a": 6.89,
@@ -4085,6 +4483,15 @@
           "mercado_b": "Confianca",
           "preco_b": 11.95,
           "score": 67.6
+        },
+        {
+          "nome_a": "Coxa de Frango Sadia Bio Fácil Temperada Pacote 800g",
+          "mercado_a": "Tauste",
+          "preco_a": 13.49,
+          "nome_b": "Frango á Passarinho Temperado Congelado Copacol 800g",
+          "mercado_b": "Coop",
+          "preco_b": 11.59,
+          "score": 67.5
         },
         {
           "nome_a": "Coxinha da Asa Copacol Temperada Pacote 1000g",
@@ -4123,6 +4530,15 @@
           "score": 65.5
         },
         {
+          "nome_a": "Coxa de Frango Sadia Bio Fácil Temperada Pacote 800g",
+          "mercado_a": "Tauste",
+          "preco_a": 13.49,
+          "nome_b": "Meio da Asa de Frango Temperado 500g",
+          "mercado_b": "Confianca",
+          "preco_b": 11.95,
+          "score": 64.8
+        },
+        {
           "nome_a": "Frango Inteiro Resfriado Kg",
           "mercado_a": "Coop",
           "preco_a": 8.99,
@@ -4130,15 +4546,6 @@
           "mercado_b": "Confianca",
           "preco_b": 13.95,
           "score": 64.7
-        },
-        {
-          "nome_a": "Sobrecoxa Sadia Assa Fácil Temperado Pacote 800g",
-          "mercado_a": "Tauste",
-          "preco_a": 14.59,
-          "nome_b": "Sobrecoxa de Frango Congelado Zip Sadia 1kg",
-          "mercado_b": "Confianca",
-          "preco_b": 14.89,
-          "score": 64.6
         },
         {
           "nome_a": "Peito de Frango Grill com Osso Bandeja  700g",
@@ -4240,6 +4647,15 @@
           "score": 61.0
         },
         {
+          "nome_a": "Paleta Suína Tauste em Cubos Bandeja 600g",
+          "mercado_a": "Tauste",
+          "preco_a": 11.98,
+          "nome_b": "Paleta Suína Com Osso e Pele Bandeja 1kg",
+          "mercado_b": "Confianca",
+          "preco_b": 11.49,
+          "score": 60.7
+        },
+        {
           "nome_a": "Copa Lombo Suína Tauste Grill Bandeja 600g",
           "mercado_a": "Tauste",
           "preco_a": 14.38,
@@ -4254,8 +4670,17 @@
           "preco_a": 4.79,
           "nome_b": "Peito de Frango em Tiras Empanado e Temperado Sadia Empanadíssimo 400g",
           "mercado_b": "Confianca",
-          "preco_b": 22.8,
+          "preco_b": 23.8,
           "score": 59.8
+        },
+        {
+          "nome_a": "Bisteca Suína Sadia Pacote 800g",
+          "mercado_a": "Tauste",
+          "preco_a": 14.89,
+          "nome_b": "Orelha Suína Salgada Coringa 400G",
+          "mercado_b": "Coop",
+          "preco_b": 11.99,
+          "score": 59.6
         },
         {
           "nome_a": "Chester Temperado Azeite e Ervas Perdigão Aprox 3,8kg",
@@ -4285,6 +4710,15 @@
           "score": 58.8
         },
         {
+          "nome_a": "Paleta Suína Tauste Bife Bandeja 600g",
+          "mercado_a": "Tauste",
+          "preco_a": 11.98,
+          "nome_b": "Banha Suína Swift 400G",
+          "mercado_b": "Coop",
+          "preco_b": 10.49,
+          "score": 58.5
+        },
+        {
           "nome_a": "Orelha Suína Salgada Coringa 400G",
           "mercado_a": "Coop",
           "preco_a": 11.99,
@@ -4292,15 +4726,6 @@
           "mercado_b": "Confianca",
           "preco_b": 15.95,
           "score": 58.3
-        },
-        {
-          "nome_a": "Isca sabor frango Swift 300g",
-          "mercado_a": "Coop",
-          "preco_a": 12.49,
-          "nome_b": "Sobrecoxa de Frango Congelado Zip Sadia 1kg",
-          "mercado_b": "Confianca",
-          "preco_b": 14.89,
-          "score": 57.7
         },
         {
           "nome_a": "Frango Empanado Seara Levíssimo Recheado 110g",
